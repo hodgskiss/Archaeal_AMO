@@ -9,6 +9,14 @@ Identified subunits for other species of AOA can be foun in the folder AMO Seque
 
 Data and descriptions can be found in the following folders:
 
+AMO Sequence Identification
+
+      Explanation and results of identifying new archaeal AMO subunits (AmoX, AmoY, and AmoZ).
+
+Conservation of AOA Genes
+
+      Explanation of archael gene conservation.
+      
 Nviennensis AMO Subunits
 
       Amino acid sequences of AMO subunits for N. viennensis.
@@ -21,16 +29,10 @@ Protein Gel Correlations
 
       R scripts for calculating BN-PAGE gel correlations.
 
-Conservation of AOA Genes
-
-      Explanation of archael gene conservation.
-
 Reanalysis of Transcriptome data
 
       Commands for the reanalysis of previous N. viennensis transcriptome data.
 
-AMO Sequence Identification
 
-      Explanation and results of identifying new archaeal AMO subunits (AmoX, AmoY, and AmoZ).
 
 
