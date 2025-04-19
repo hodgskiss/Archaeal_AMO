@@ -1,0 +1,8 @@
+#Note: Might need to redo with "current" alignments.
+
+
+
+trimal -in amoB_Combined_msa_linsi -out amoB_test -selectcols { 0-383 } -selectseqs { 0-51,104 }
+
+
+trimal -in amoC_Combined_msa_linsi -out amoC_test -selectcols { 114-327  } -selectseqs { 0-77 }

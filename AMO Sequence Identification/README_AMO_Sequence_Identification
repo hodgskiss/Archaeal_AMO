@@ -1,0 +1,48 @@
+AMO Sequence Identification
+
+Archaeal species for this analysis can be found in the file Species_Codes_Archaea.
+Bacterial species for this analysis can be found in the file Species_Codes_Bacteria.
+
+AMO subunits for Nitrososphaera viennensis can be found in the file Nvie_AMO_subunits_ABCXYZ.
+AMO subutnis for Nitrosocaldus cavascurensis can be found in the file Ncav_AMO_subunitsABCXYZ.
+
+Alignment commands using mafft can be found in the file hmmer_command.sh.
+
+Step 1
+  Selected sequences for AOA and AOB were used to make HMMs for subunits AmoA, AmoB, and AmoC.
+  These sequences can be found in the folder "Sequences for HMMs".
+
+Step 2
+  HMMs were made for each domain for AmoA, AmoB, and AmoC.
+  HMMs can be found in the folder "HMMs".
+
+Step 3
+  Multiple sequence alignments were made using both domains for AmoA, AmoB, and AmoC.
+  These alignments can be found in the folder "AmoABC Alignments Both Domains".
+
+Step 4
+  Extended regions of AmoB and AmoC in bacteria were trimmed using Trimal.
+  Alignments and trimal command can be found in the folder "Trimming of AmoB and AmoC Alignments".
+
+Step 5
+  HMMs were created using the trimmed bacterial regions.
+  These HMMs were searched against archaeal proteins for postibive matches.
+  None were found.
+
+Step 6
+  To find other archaeal sequences, AmoX, AmoY, and AmoZ were blasted against archaeal genomes.
+  The top hit from each genome was collected and a HMM was created for AmoX, AmoY, and AmoZ.
+  The hmmsearch command used can be foun in the file hmmer_command.sh.
+
+Step 7
+  HMMs for AmoX, AmoY, adn AmoZ were used to identify final candidataes in archaeal species.
+  No hits were found in bacterial species.
+
+Step 8
+  Final AMO sequences from archaea can be found for each species in the folder "Identified Subunits in Archaea".
+  Each file contains hits for the six AMO subunis and corresponding e-values form hmmsearch.
+  In cases with multiple hits for AmoX, AmoY, and AmoZ, e-values and synteny were used to select the most likely candidate.
+  Final results can be found in Table S16 of manuscript.
+
+Step 9
+  Domain specific alignments for each subunit can be found in the folder "Domain Specific Alignments".
