@@ -1,0 +1,1767 @@
+Locus.Tag,Gene.Name,Protein.Code,Protein.Product
+NCAV_0198,NCAV_0198,A0A2K5AP25,Uncharacterized protein
+NCAV_0852,rpoE,A0A2K5AQW9,DNA-directed RNA polymerase subunit E (EC 2.7.7.6)
+NCAV_0133,NCAV_0133,A0A2K5ANW9,Uncharacterized protein
+NCAV_1526,nadE,A0A2K5ASS9,NH(3)-dependent NAD(+) synthetase (EC 6.3.1.5)
+NCAV_0554,NCAV_0554,A0A2K5AQ54,Thioredoxin 1 (Modular protein)
+NCAV_0693,NCAV_0693,A0A2K5AQI8,Uncharacterized protein
+NCAV_0130,NCAV_0130,A0A2K5ANV7,PhoU family transcriptional regulator
+NCAV_1733,NCAV_1733,A0A2K5ATB9,Alpha/beta hydrolase fold protein
+NCAV_1282,NCAV_1282,A0A2K5AS59,Uncharacterized protein
+NCAV_0506,NCAV_0506,A0A2K5AQ21,Geranylgeranyl reductase family protein
+NCAV_0512,NCAV_0512,A0A2K5AQ06,UPF0033 domain-containing protein
+NCAV_1423,yvqK,A0A2K5ASK2,"Cob(I)yrinic acid a,c-diamide adenosyltransferase (EC 2.5.1.17)"
+NCAV_0319,NCAV_0319,A0A2K5APE5,UPF0284 protein NCAV_0319
+NCAV_0458,NCAV_0458,A0A2K5APT4,Uncharacterized protein
+NCAV_0398,lig,A0A2K5APM2,DNA ligase (EC 6.5.1.1) (Polydeoxyribonucleotide synthase [ATP])
+NCAV_0840,purK,A0A2K5AQT3,N5-carboxyaminoimidazole ribonucleotide synthase (N5-CAIR synthase) (EC 6.3.4.18) (5-(carboxyamino)imidazole ribonucleotide synthetase)
+NCAV_0886,NCAV_0886,A0A2K5AQY4,Uncharacterized protein
+NCAV_0502,NCAV_0502,A0A2K5APZ2,Uncharacterized protein
+NCAV_0424,NCAV_0424,A0A2K5APN6,Permease
+NCAV_1443,NCAV_1443,A0A2K5ASM2,Uncharacterized protein
+NCAV_0853,spt,A0A2K5AQV7,Transcription elongation factor Spt4
+NCAV_0227,sufS,A0A2K5AP51,"Selenocysteine lyase, PLP-dependent (EC 4.4.1.16)"
+NCAV_0449,NCAV_0449,A0A2K5APS1,Inositol-1-monophosphatase (EC 3.1.3.25)
+NCAV_0684,NCAV_0684,A0A2K5AQG2,L-fuculose phosphate aldolase (EC 4.1.2.17) (L-fuculose-1-phosphate aldolase)
+NCAV_1473,NCAV_1473,A0A2K5ASP9,Uncharacterized protein
+NCAV_0218,hemA,A0A2K5AP49,Glutamyl-tRNA reductase (GluTR) (EC 1.2.1.70)
+NCAV_0906,NCAV_0906,A0A2K5AR08,Uncharacterized protein
+NCAV_0403,NCAV_0403,A0A2K5APQ9,"Putative transcriptional regulator, ArsR family"
+NCAV_1109,NCAV_1109,A0A2K5ARK5,Major facilitator superfamily transporter MFS_1
+NCAV_1804,NCAV_1804,A0A2K5ATK1,Uncharacterized protein
+NCAV_1530,NCAV_1530,A0A2K5ASS0,Alpha/beta hydrolase
+NCAV_1006,NCAV_1006,A0A2K5ARA8,Uncharacterized protein
+NCAV_1546,NCAV_1546,A0A2K5ASV0,Uncharacterized protein
+NCAV_1366,flaI,A0A2K5ASB7,Archaeal flagella protein FlaI
+NCAV_0809,NCAV_0809,A0A2K5AQQ1,Uncharacterized protein
+NCAV_1636,NCAV_1636,A0A2K5AT54,Putative PilT domain protein
+NCAV_0438,NCAV_0438,A0A2K5APR5,C2H2 Zn finger protein
+NCAV_1619,NCAV_1619,A0A2K5AT14,Uncharacterized protein
+NCAV_0972,NCAV_0972,A0A2K5ARC4,Putative 5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+NCAV_1493,rpl30e,A0A2K5ASR4,50S ribosomal protein L30e
+NCAV_1379,NCAV_1379,A0A2K5ASD1,Uncharacterized protein
+NCAV_0882,NCAV_0882,A0A2K5AR36,Putative radical SAM domain protein
+NCAV_0142,NCAV_0142,A0A2K5ANX8,Transcriptional regulator
+NCAV_0964,NCAV_0964,A0A2K5AR58,Luciferase-like monooxygenase family protein
+NCAV_1021,NCAV_1021,A0A2K5ARB9,Uncharacterized protein
+NCAV_0551,NCAV_0551,A0A2K5AQ40,Uncharacterized protein
+NCAV_1667,NCAV_1667,A0A2K5AT55,Uncharacterized protein
+NCAV_1463,pheS,A0A2K5ASP1,Phenylalanine--tRNA ligase (EC 6.1.1.20)
+NCAV_1232,NCAV_1232,A0A2K5AS05,Uncharacterized protein
+NCAV_1053,NCAV_1053,A0A2K5ARE5,Putative Site-specific DNA-methyltransferase (Adenine-specific) (EC 2.1.1.72)
+NCAV_1483,NCAV_1483,A0A2K5ASQ4,Uncharacterized protein
+NCAV_1255,NCAV_1255,A0A2K5AS03,LysC-like protein
+NCAV_1551,NCAV_1551,A0A2K5ASU5,Uncharacterized protein
+NCAV_0532,NCAV_0532,A0A2K5AQ26,Phosphate transport regulator
+NCAV_0389,aroB,A0A2K5APL8,3-dehydroquinate synthase (EC 1.4.1.24)
+NCAV_1163,NCAV_1163,A0A2K5ARQ0,Uncharacterized protein
+NCAV_0919,NCAV_0919,A0A2K5AR18,Putative THUMP domain protein
+NCAV_0353,NCAV_0353,A0A2K5APK6,Putative nucleotide binding protein
+NCAV_1149,NCAV_1149,A0A2K5ARV0,Transporter
+NCAV_0663,NCAV_0663,A0A2K5AQB9,Uncharacterized protein
+NCAV_1262,NCAV_1262,A0A2K5AS40,TrmB domain-containing protein
+NCAV_0315,rps13p,A0A2K5APH2,30S ribosomal protein S13
+NCAV_0944,rps30e,A0A2K5AR40,30S ribosomal protein S30e
+NCAV_0273,NCAV_0273,A0A2K5APB4,"Proton-translocating NADH-quinone oxidoreductase, chain M (EC 1.6.5.11)"
+NCAV_1211,NCAV_1211,A0A2K5ARU4,Aldo/keto reductase
+NCAV_0297,NCAV_0297,A0A2K5APB8,N-alpha-acetyltransferase (EC 2.3.1.255) (EC 2.3.1.258)
+NCAV_0681,NCAV_0681,A0A2K5AQD6,Uncharacterized protein
+NCAV_1476,NCAV_1476,A0A2K5ASL9,Uncharacterized protein
+NCAV_0240,rpl15p,A0A2K5AP87,50S ribosomal protein L15
+NCAV_0300,NCAV_0300,A0A2K5APC8,Uncharacterized protein
+NCAV_0578,NCAV_0578,A0A2K5AQ42,Putative Glycosyltransferase
+NCAV_1722,NCAV_1722,A0A2K5ATC5,NurA domain-containing protein
+NCAV_1050,NCAV_1050,A0A2K5ARH0,Uncharacterized protein
+NCAV_0884,NCAV_0884,A0A2K5AQY6,Uncharacterized protein
+NCAV_1031,NCAV_1031,A0A2K5ARD4,Uncharacterized protein
+NCAV_1029,NCAV_1029,A0A2K5ARD3,Uncharacterized protein
+NCAV_1622,NCAV_1622,A0A2K5AT19,4a-hydroxytetrahydrobiopterin dehydratase (EC 4.2.1.96)
+NCAV_1578,NCAV_1578,A0A2K5ASX0,Uncharacterized protein
+NCAV_0046,tfe,A0A2K5ANM6,Transcription factor E (TFE) (TFIIE subunit alpha homolog) (Transcription initiation factor TFIIE)
+NCAV_0396,thi,A0A2K5APM7,Thiamine thiazole synthase (EC 2.4.2.59)
+NCAV_0560,rps28e,A0A2K5AQ22,30S ribosomal protein S28e
+NCAV_0033,NCAV_0033,A0A2K5ANL9,Uncharacterized protein
+NCAV_1765,NCAV_1765,A0A2K5ATE8,dUTPase
+NCAV_0516,NCAV_0516,A0A2K5AQ30,Uncharacterized protein
+NCAV_1497,NCAV_1497,A0A2K5ASP3,Uncharacterized protein
+NCAV_1712,lysA,A0A2K5ATB4,Diaminopimelate decarboxylase LysA (EC 4.1.1.20)
+NCAV_1201,albA,A0A2K5ART5,DNA/RNA-binding protein Alba
+NCAV_1605,NCAV_1605,A0A2K5ASZ1,Uncharacterized protein
+NCAV_1019,NCAV_1019,A0A2K5ARC1,Uncharacterized protein
+NCAV_1426,NCAV_1426,A0A2K5ASH3,Uncharacterized protein
+NCAV_0161,resA,A0A2K5ANZ3,NHL repeat-containing protein
+NCAV_1559,NCAV_1559,A0A2K5ASY8,Uncharacterized protein
+NCAV_0806,NCAV_0806,A0A2K5AQS7,Uncharacterized protein
+NCAV_0726,NCAV_0726,A0A2K5AQL7,Fe-S oxidoreductase
+NCAV_0791,NCAV_0791,A0A2K5AQN9,"ABC-type Fe3+-hydroxamate transport system, periplasmic component"
+NCAV_1434,NCAV_1434,A0A2K5ASH9,Saccharop_dh_N domain-containing protein
+NCAV_1304,NCAV_1304,A0A2K5AS52,Uncharacterized protein
+NCAV_1249,argD,A0A2K5ARY8,Acetylornithine aminotransferase (EC 2.6.1.11)
+NCAV_1470,NCAV_1470,A0A2K5ASK5,HTH_45 domain-containing protein
+NCAV_1445,NCAV_1445,A0A2K5ASJ6,Uncharacterized protein
+NCAV_1361,NCAV_1361,A0A2K5ASB3,Uncharacterized protein
+NCAV_0250,NCAV_0250,A0A2K5AP97,Uncharacterized protein
+NCAV_1406,NCAV_1406,A0A2K5ASF3,Putative NorQ like ATPase
+NCAV_0715,kae,A0A2K5AQG1,tRNA N6-adenosine threonylcarbamoyltransferase (EC 2.3.1.234) (N6-L-threonylcarbamoyladenine synthase) (t(6)A synthase) (t(6)A37 threonylcarbamoyladenosine biosynthesis protein Kae1) (tRNA threonylcarbamoyladenosine biosynthesis protein Kae1)
+NCAV_0128,NCAV_0128,A0A2K5ANW1,tRNA (cytidine(56)-2'-O)-methyltransferase (EC 2.1.1.206) (tRNA ribose 2'-O-methyltransferase aTrm56)
+NCAV_1090,NCAV_1090,A0A2K5ARK4,Uncharacterized protein
+NCAV_1644,cbiG,A0A2K5AT50,Cobalt-precorrin-5A hydrolase (EC 3.7.1.12)
+NCAV_1625,NCAV_1625,A0A2K5AT08,"ABC efflux transporter, FtsX-domain permease protein"
+NCAV_1584,NCAV_1584,A0A2K5AT05,Blue (Type 1) copper domain protein
+NCAV_0299,NCAV_0299,A0A2K5APC2,Putative methyltransferase
+NCAV_0410,NCAV_0410,A0A2K5APN9,Phosphoglycolate phosphatase (PGP) (PGPase) (EC 3.1.3.18)
+NCAV_1185,NCAV_1185,A0A2K5ARS6,Uncharacterized protein
+NCAV_0803,bioB,A0A2K5AQP6,Biotin synthase (EC 2.8.1.6)
+NCAV_1800,NCAV_1800,A0A2K5ATK6,Uncharacterized protein
+NCAV_1771,NCAV_1771,A0A2K5ATK3,Uncharacterized protein
+NCAV_0905,NCAV_0905,A0A2K5AR09,Uncharacterized protein
+NCAV_1065,NCAV_1065,A0A2K5ARF7,Uncharacterized protein
+NCAV_1214,NCAV_1214,A0A2K5ARV8,Uncharacterized protein
+NCAV_0735,trm,A0A2K5AQH8,"N(2),N(2)-dimethylguanosine tRNA methyltransferase (EC 2.1.1.213)"
+NCAV_0320,gloB,A0A2K5APE9,Beta-lactamase domain-containing protein (GloB) (EC 3.1.2.6)
+NCAV_0017,NCAV_0017,A0A2K5ANJ5,"ABC-type phosphate/phosphonate transport system, ATPase component"
+NCAV_0885,ths1,A0A2K5AQY0,Thermosome subunit
+NCAV_0260,NCAV_0260,A0A2K5APA7,Glyco_trans_2-like domain-containing protein
+NCAV_0264,NCAV_0264,A0A2K5AP94,NADH dehydrogenase subunit A (EC 1.6.5.3)
+NCAV_1763,NCAV_1763,A0A2K5ATF1,Copper resistance protein CopD
+NCAV_0025,NCAV_0025,A0A2K5ANK6,"Transcriptional regulator, AsnC family"
+NCAV_1338,NCAV_1338,A0A2K5ASC6,Putative archaeal flagella protein FlaI
+NCAV_1080,NCAV_1080,A0A2K5ARJ7,Uncharacterized protein
+NCAV_1277,NCAV_1277,A0A2K5AS65,Putative glycosyl transferase family protein
+NCAV_1040,NCAV_1040,A0A2K5ARG2,Uncharacterized protein
+NCAV_1425,NCAV_1425,A0A2K5ASH6,C2H2-type domain-containing protein
+NCAV_0039,NCAV_0039,A0A2K5ANR0,Putative Small heat shock protein HSP16.5
+NCAV_0477,NCAV_0477,A0A2K5APV3,Putative TGS domain protein
+NCAV_0514,NCAV_0514,A0A2K5AQ19,Acetate--CoA ligase (ADP-forming) (EC 6.2.1.13)
+NCAV_0335,NCAV_0335,A0A2K5APJ1,Acetoin utilization protein AcuC
+NCAV_0859,NCAV_0859,A0A2K5AQV6,Uncharacterized protein
+NCAV_0348,NCAV_0348,A0A2K5APG8,4Fe-4S ferredoxin iron-sulfur binding domain protein
+NCAV_1073,NCAV_1073,A0A2K5ARG5,Putative integrase
+NCAV_1196,NCAV_1196,A0A2K5ART7,Uncharacterized protein
+NCAV_1177,NCAV_1177,A0A2K5ARW6,Uncharacterized protein
+NCAV_0461,NCAV_0461,A0A2K5APU8,Uncharacterized protein
+NCAV_1731,NCAV_1731,A0A2K5ATF8,Uncharacterized protein
+NCAV_1477,cdvB-like,A0A2K5ASM5,Putative SNF7 protein
+NCAV_1641,cbiA,A0A2K5AT67,"Cobyrinate a,c-diamide synthase (EC 6.3.5.11) (Cobyrinic acid a,c-diamide synthetase)"
+NCAV_0649,NCAV_0649,A0A2K5AQA8,Uncharacterized protein
+NCAV_0824,rnp,A0A2K5AQS3,Ribonuclease P protein component 1 (RNase P component 1) (EC 3.1.26.5) (Rpp29)
+NCAV_0154,guaA,A0A2K5ANY8,GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2) (GMP synthetase) (Glutamine amidotransferase)
+NCAV_1100,NCAV_1100,A0A2K5ARL4,Peptidase U62 modulator of DNA gyrase
+NCAV_1777,cas2,A0A2K5ATG8,CRISPR-associated endoribonuclease Cas2 (EC 3.1.-.-)
+NCAV_0134,NCAV_0134,A0A2K5ANW8,Uncharacterized protein
+NCAV_1023,NCAV_1023,A0A2K5ARC3,ATPase protein
+NCAV_1460,NCAV_1460,A0A2K5ASJ5,Uncharacterized protein
+NCAV_0627,NCAV_0627,A0A2K5AQB3,Uncharacterized protein
+NCAV_0615,NCAV_0615,A0A2K5AQB2,Uncharacterized protein
+NCAV_1414,NCAV_1414,A0A2K5ASF5,Acetoacetyl-CoA thiolase or ketoacyl-CoA thiolase (EC 2.3.1.9)
+NCAV_0897,NCAV_0897,A0A2K5AR42,Uncharacterized protein
+NCAV_1590,NCAV_1590,A0A2K5ASZ4,Uncharacterized protein
+NCAV_1488,NCAV_1488,A0A2K5ASR6,3-hydroxybutyryl-CoA dehydratase (EC 4.2.1.55)
+NCAV_0518,NCAV_0518,A0A2K5APY6,Uncharacterized protein
+NCAV_0105,NCAV_0105,A0A2K5ANT9,Putative signal-transduction protein
+NCAV_1035,NCAV_1035,A0A2K5ARC8,Uncharacterized protein
+NCAV_1099,NCAV_1099,A0A2K5ARK0,Putative phosphohydrolase
+NCAV_0668,NCAV_0668,A0A2K5AQD9,Uncharacterized protein
+NCAV_0722,NCAV_0722,A0A2K5AQH5,Putative nickel-responsive regulator 1
+NCAV_0225,sufD,A0A2K5AP56,Putative FeS cluster assembly protein sufD
+NCAV_1649,NCAV_1649,A0A2K5AT40,DNA repair and recombination protein RadA
+NCAV_1024,NCAV_1024,A0A2K5ARB1,Uncharacterized protein
+NCAV_0770,NCAV_0770,A0A2K5AQM2,Putative CAAX amino terminal protease family protein
+NCAV_0220,hemL,A0A2K5AP46,"Glutamate-1-semialdehyde 2,1-aminomutase (GSA) (EC 5.4.3.8) (Glutamate-1-semialdehyde aminotransferase) (GSA-AT)"
+NCAV_0378,NCAV_0378,A0A2K5APK1,Uncharacterized protein
+NCAV_1208,NCAV_1208,A0A2K5ARX1,Uncharacterized protein
+NCAV_0095,nth,A0A2K5ANS8,Endonuclease III (EC 4.2.99.18) (DNA-(apurinic or apyrimidinic site) lyase)
+NCAV_0643,ahcY,A0A2K5AQD2,Adenosylhomocysteinase (EC 3.3.1.1)
+NCAV_0113,dpm,A0A2K5ANV3,Dolichol-phosphate mannosyltransferase (EC 2.4.1.83)
+NCAV_1016,NCAV_1016,A0A2K5ARB8,"Putative Adenine-specific DNA methylase, contains a Zn-ribbon domain"
+NCAV_0148,NCAV_0148,A0A2K5ANX9,Putative Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+NCAV_1748,NCAV_1748,A0A2K5ATF9,Putative Serine/threonine protein kinase
+NCAV_0028,NCAV_0028,A0A2K5ANK4,Cell division protein SepF
+NCAV_0213,NCAV_0213,A0A2K5AP41,Chlorite dismutase family protein
+NCAV_0667,NCAV_0667,A0A2K5AQH2,Uncharacterized protein
+NCAV_0453,NCAV_0453,A0A2K5APW4,Uncharacterized protein
+NCAV_1013,NCAV_1013,A0A2K5ARB5,"Putative ATPase/GTPase, AAA15 family"
+NCAV_0589,NCAV_0589,A0A2K5AQ66,Uncharacterized protein
+NCAV_1034,NCAV_1034,A0A2K5ARD0,SWIM-type domain-containing protein
+NCAV_0995,ureF,A0A2K5AR95,Urease accessory protein UreF
+NCAV_1459,NCAV_1459,A0A2K5ASK8,"Putative cobalt transporter family protein, subunit CbtB"
+NCAV_1739,NCAV_1739,A0A2K5ATC4,Uncharacterized protein
+NCAV_0951,NCAV_0951,A0A2K5AR55,Uncharacterized protein
+NCAV_0327,NCAV_0327,A0A2K5APE6,Uncharacterized protein
+NCAV_0768,NCAV_0768,A0A2K5AQS4,Uncharacterized protein
+NCAV_1377,NCAV_1377,A0A2K5ASC3,Uncharacterized protein
+NCAV_0056,NCAV_0056,A0A2K5ANN6,Uncharacterized protein
+NCAV_1799,NCAV_1799,A0A2K5ATJ1,TrmB domain-containing protein
+NCAV_0443,NCAV_0443,A0A2K5APV4,Uncharacterized protein
+NCAV_0011,NCAV_0011,A0A2K5ANJ2,ABC-1 domain-containing protein
+NCAV_1318,NCAV_1318,A0A2K5ASA7,Putative Creatinine amidohydrolase/Fe(II)-dependent formamide hydrolase
+NCAV_1581,NCAV_1581,A0A2K5ASW6,Uncharacterized protein
+NCAV_1582,NCAV_1582,A0A2K5ASZ7,Uncharacterized protein
+NCAV_0792,NCAV_0792,A0A2K5AQP9,Putative membrane Serralysin-like metalloprotease
+NCAV_0568,NCAV_0568,A0A2K5AQ33,Uncharacterized protein
+NCAV_1141,NCAV_1141,A0A2K5ARP3,Uncharacterized protein
+NCAV_0442,NCAV_0442,A0A2K5APS3,Uncharacterized protein
+NCAV_0703,NCAV_0703,A0A2K5AQJ5,Uncharacterized protein
+NCAV_0203,NCAV_0203,A0A2K5AP35,Putative chromosome segregation and condensation protein ScpA
+NCAV_0123,NCAV_0123,A0A2K5ANW2,Putative GMP synthase
+NCAV_0426,NCAV_0426,A0A2K5APQ3,"Putative Cadmium, cobalt and zinc/H(+)-K(+) antiporter"
+NCAV_0194,NCAV_0194,A0A2K5AP31,AsnC_trans_reg domain-containing protein
+NCAV_0760,trpA,A0A2K5AQL2,Tryptophan synthase alpha chain (EC 4.2.1.20)
+NCAV_0723,NCAV_0723,A0A2K5AQL5,Putative High-affinity zinc uptake system binding-protein ZnuA
+NCAV_0783,NCAV_0783,A0A2K5AQS2,Putative membrane-associated protein
+NCAV_1049,NCAV_1049,A0A2K5ARE9,Uncharacterized protein
+NCAV_0754,NCAV_0754,A0A2K5AQN0,Archaetidylinositol phosphate synthase (AIP synthase) (EC 2.7.8.39)
+NCAV_0683,NCAV_0683,A0A2K5AQH9,Putative hydrogenase formation protein HypD
+NCAV_0431,NCAV_0431,A0A2K5APR6,Uncharacterized protein
+NCAV_0927,NCAV_0927,A0A2K5AR73,Uncharacterized protein
+NCAV_0252,NCAV_0252,A0A2K5APB0,Uncharacterized protein
+NCAV_0788,NCAV_0788,A0A2K5AQT7,Uncharacterized protein
+NCAV_1465,trpS,A0A2K5ASL0,Tryptophan--tRNA ligase (EC 6.1.1.2)
+NCAV_1056,NCAV_1056,A0A2K5ARF5,Uncharacterized protein
+NCAV_0340,hisS,A0A2K5APG7,Histidine--tRNA ligase (EC 6.1.1.21)
+NCAV_0107,cbiT,A0A2K5ANV0,Probable cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating) (EC 2.1.1.196)
+NCAV_0537,NCAV_0537,A0A2K5AQ14,Uncharacterized protein
+NCAV_0556,NCAV_0556,A0A2K5AQ69,Putative divalent heavy-metal cations transporter
+NCAV_1344,NCAV_1344,A0A2K5AS86,Putative adhesin
+NCAV_1272,tdcB,A0A2K5AS49,Threonine ammonia-lyase (EC 4.3.1.19)
+NCAV_1756,NCAV_1756,A0A2K5ATH2,Uncharacterized protein
+NCAV_0616,NCAV_0616,A0A2K5AQ70,Uncharacterized protein
+NCAV_0085,NCAV_0085,A0A2K5ANS1,Uncharacterized protein
+NCAV_0468,NCAV_0468,A0A2K5APU2,Putative 4-hydroxybenzoate synthetase (Chorismate lyase) (EC 4.1.3.40)
+NCAV_0288,NCAV_0288,A0A2K5APB6,Putative nickel-responsive regulator
+NCAV_1685,NCAV_1685,A0A2K5AT74,DNA-directed RNA polymerase (EC 2.7.7.6)
+NCAV_1481,NCAV_1481,A0A2K5ASP7,Sec-independent protein secretion pathway component
+NCAV_0402,NCAV_0402,A0A2K5APN3,Uncharacterized protein
+NCAV_0583,NCAV_0583,A0A2K5AQ48,Uncharacterized protein
+NCAV_0451,NCAV_0451,A0A2K5APT6,Pyruvate formate lyase activating enzyme (EC 1.97.1.4)
+NCAV_1456,NCAV_1456,A0A2K5ASK3,Uncharacterized protein
+NCAV_0086,NCAV_0086,A0A2K5ANR5,Putative beta-ketothiolase beta subunit
+NCAV_0572,NCAV_0572,A0A2K5AQ63,UDP-glucuronate decarboxylase (EC 4.1.1.35)
+NCAV_1129,NCAV_1129,A0A2K5ARQ6,Uncharacterized protein
+NCAV_0565,fabG,A0A2K5AQ20,3-oxoacyl-[acyl-carrier-protein] reductase FabG (EC 1.1.1.100)
+NCAV_1792,glnA,A0A2K5ATI6,Glutamine synthetase (EC 6.3.1.2)
+NCAV_0373,NCAV_0373,A0A2K5APM5,Putative HAD family hydrolase
+NCAV_1248,lysM,A0A2K5AS04,HTH-type transcriptional regulator LysM
+NCAV_0756,nadK,A0A2K5AQP8,NAD kinase (EC 2.7.1.23) (ATP-dependent NAD kinase)
+NCAV_1413,NCAV_1413,A0A2K5ASJ1,Uncharacterized protein
+NCAV_0386,aroK,A0A2K5APL9,Shikimate kinase (SK) (EC 2.7.1.71)
+NCAV_1612,NCAV_1612,A0A2K5AT11,Uncharacterized protein
+NCAV_0617,NCAV_0617,A0A2K5AQC6,Uncharacterized protein
+NCAV_1766,NCAV_1766,A0A2K5ATI1,DnaJ domain protein
+NCAV_0596,NCAV_0596,A0A2K5AQB0,Uncharacterized protein
+NCAV_0721,NCAV_0721,A0A2K5AQH1,Putative Inosine 5'-monophosphate dehydrogenase
+NCAV_0173,NCAV_0173,A0A2K5AP04,Uncharacterized protein
+NCAV_1043,NCAV_1043,A0A2K5ARD7,Uncharacterized protein
+NCAV_1555,rpl32e,A0A2K5ASU6,50S ribosomal protein L32e
+NCAV_0359,rrp,A0A2K5API8,Exosome complex component Rrp42
+NCAV_1205,NCAV_1205,A0A2K5ARU8,DNA repair protein
+NCAV_0247,NCAV_0247,A0A2K5AP77,Pyridoxamine 5'-phosphate oxidase FMN-binding protein
+NCAV_1534,NCAV_1534,A0A2K5ASV3,Putative transcriptional regulator
+NCAV_0880,cofH,A0A2K5AR04,5-amino-6-(D-ribitylamino)uracil--L-tyrosine 4-hydroxyphenyl transferase (EC 2.5.1.147)
+NCAV_1795,NCAV_1795,A0A2K5ATH7,Uncharacterized protein
+NCAV_0762,trpC,A0A2K5AQL9,Indole-3-glycerol phosphate synthase (IGPS) (EC 4.1.1.48)
+NCAV_0957,acsA,A0A2K5ARA7,Acetyl-CoA synthetase (EC 6.2.1.1)
+NCAV_1571,NCAV_1571,A0A2K5ASV7,Uncharacterized protein
+NCAV_1383,NCAV_1383,A0A2K5ASG0,Putative RecB family endonuclease
+NCAV_0350,NCAV_0350,A0A2K5APH7,Natural resistance-associated macrophage protein
+NCAV_0692,NCAV_0692,A0A2K5AQF2,Uncharacterized protein
+NCAV_1509,NCAV_1509,A0A2K5ASQ0,HTH_45 domain-containing protein
+NCAV_0179,hisA,A0A2K5AP47,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase (EC 5.3.1.16) (Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase)
+NCAV_1552,NCAV_1552,A0A2K5ASW8,Uncharacterized protein
+NCAV_1720,NCAV_1720,A0A2K5ATB8,HTH marR-type domain-containing protein
+NCAV_1405,NCAV_1405,A0A2K5ASF9,Putative von Willebrand factor type A domain protein
+NCAV_1076,NCAV_1076,A0A2K5ARH6,Uncharacterized protein
+NCAV_0994,ureG,A0A2K5AR82,Urease accessory protein UreG
+NCAV_0912,NCAV_0912,A0A2K5AR65,Uncharacterized protein
+NCAV_0102,NCAV_0102,A0A2K5ANU1,Putative glycosyltransferase
+NCAV_0112,NCAV_0112,A0A2K5ANU7,Type-5 uracil-DNA glycosylase
+NCAV_0798,fbp,A0A2K5AQU9,"Fructose-1,6-bisphosphate aldolase/phosphatase (FBP A/P) (FBP aldolase/phosphatase) (EC 3.1.3.11) (EC 4.1.2.13)"
+NCAV_0126,NCAV_0126,A0A2K5ANV4,Putative 4-hydroxybutyryl-CoA dehydratase (EC 4.2.1.120)
+NCAV_0311,NCAV_0311,A0A2K5APE3,Uncharacterized protein
+NCAV_0603,NCAV_0603,A0A2K5AQ68,Transposase
+NCAV_1067,NCAV_1067,A0A2K5ARM3,Uncharacterized protein
+NCAV_0035,NCAV_0035,A0A2K5ANL7,Uncharacterized protein
+NCAV_0316,rps4p,A0A2K5APF3,30S ribosomal protein S4
+NCAV_0665,NCAV_0665,A0A2K5AQB5,Uncharacterized protein
+NCAV_0659,NCAV_0659,A0A2K5AQC1,Acetyl-CoA acetyltransferase
+NCAV_0655,NCAV_0655,A0A2K5AQA9,Putative phosphoesterase
+NCAV_0388,aroD,A0A2K5APL1,3-dehydroquinate dehydratase (3-dehydroquinase) (EC 4.2.1.10) (Type I DHQase) (Type I dehydroquinase) (DHQ1)
+NCAV_1529,phaC,A0A2K5ASV6,PHB synthase subunit PhaC (Poly(3-hydroxyalkanoate) polymerase subunit PhaC)
+NCAV_0854,nadC,A0A2K5AQV3,Nicotinate-nucleotide pyrophosphorylase [carboxylating] (EC 2.4.2.19) (Quinolinate phosphoribosyltransferase [decarboxylating])
+NCAV_1416,NCAV_1416,A0A2K5ASG2,Nucleotidyl transferase
+NCAV_0646,NCAV_0646,A0A2K5AQE9,Uncharacterized protein
+NCAV_1299,NCAV_1299,A0A2K5AS33,ERCC4-like helicase
+NCAV_0361,rrp,A0A2K5APJ6,Exosome complex component Rrp4
+NCAV_1250,lysZ,A0A2K5AS12,Multifunctional fusion protein [Includes: Acetylglutamate kinase (EC 2.7.2.8) (N-acetyl-L-glutamate 5-phosphotransferase) (NAG kinase) (NAGK); Putative [LysW]-aminoadipate/[LysW]-glutamate kinase (EC 2.7.2.-) (EC 2.7.2.17)]
+NCAV_0351,NCAV_0351,A0A2K5API7,Uncharacterized protein
+NCAV_1646,NCAV_1646,A0A2K5AT63,Non-specific serine/threonine protein kinase (EC 2.7.11.1)
+NCAV_1545,rpl11p,A0A2K5AST6,50S ribosomal protein L11
+NCAV_0821,rpl24p,A0A2K5AQW8,50S ribosomal protein L24
+NCAV_0820,RP-S4e,A0A2K5AQR2,30S ribosomal protein S4e
+NCAV_1613,mdh,A0A2K5ASZ6,Malate dehydrogenase (EC 1.1.1.37)
+NCAV_1345,NCAV_1345,A0A2K5AS94,Uncharacterized protein
+NCAV_1066,NCAV_1066,A0A2K5ARG6,Uncharacterized protein
+NCAV_1453,queC,A0A2K5ASN2,Putative 7-cyano-7-deazaguanine synthase (EC 6.3.-.-)
+NCAV_1393,NCAV_1393,A0A2K5ASG9,Diphthine synthase (EC 2.1.1.98)
+NCAV_0223,NCAV_0223,A0A2K5AP52,Putative Uroporphyrinogen-III synthase/methyltransferase (EC 2.1.1.107) (EC 4.2.1.75)
+NCAV_0638,NCAV_0638,A0A2K5AQ95,Uncharacterized protein
+NCAV_0535,purB,A0A2K5APZ5,Adenylosuccinase (EC 4.3.2.2) (Adenylosuccinate lyase)
+NCAV_0298,NCAV_0298,A0A2K5APC4,Uncharacterized protein
+NCAV_1653,NCAV_1653,A0A2K5AT48,Uncharacterized protein
+NCAV_0776,NCAV_0776,A0A2K5AQR5,"Peptide/opine/nickel ABC uptake transporter, substrate-binding protein"
+NCAV_1665,rnz,A0A2K5AT45,Ribonuclease Z (RNase Z) (EC 3.1.26.11) (tRNA 3 endonuclease) (tRNase Z)
+NCAV_1533,NCAV_1533,A0A2K5ASS6,Uncharacterized protein
+NCAV_0774,NCAV_0774,A0A2K5AQQ2,DUF2070 domain-containing protein
+NCAV_1647,metK,A0A2K5AT35,Methionine adenosyltransferase (EC 2.5.1.6)
+NCAV_1355,NCAV_1355,A0A2K5ASA6,Histidine kinase (EC 2.7.13.3)
+NCAV_0304,NCAV_0304,A0A2K5APC0,Uncharacterized protein
+NCAV_0945,birA,A0A2K5AR50,Biotin-[acetyl-CoA-carboxylase] ligase (EC 6.3.4.15)
+NCAV_0710,NCAV_0710,A0A2K5AQF7,Uncharacterized protein
+NCAV_0800,NCAV_0800,A0A2K5AQQ6,Uncharacterized protein
+NCAV_0149,rps27e,A0A2K5AP14,30S ribosomal protein S27e
+NCAV_0891,NCAV_0891,A0A2K5AQY7,Phosphatase of the haloacid dehalogenase (HAD)-like hydrolase family
+NCAV_0127,NCAV_0127,A0A2K5ANW7,4-hydroxybutyryl-CoA dehydratase (EC 4.2.1.120)
+NCAV_0383,aroC,A0A2K5APN8,Chorismate synthase (CS) (EC 4.2.3.5) (5-enolpyruvylshikimate-3-phosphate phospholyase)
+NCAV_0888,NCAV_0888,A0A2K5AR01,DNA helicase (EC 3.6.4.12)
+NCAV_1501,NCAV_1501,A0A2K5ASR5,Uncharacterized protein
+NCAV_0648,NCAV_0648,A0A2K5AQ99,Uncharacterized protein
+NCAV_0584,NCAV_0584,A0A2K5AQ85,Glycosyl transferase group 1
+NCAV_1729,NCAV_1729,A0A2K5ATB3,Uncharacterized protein
+NCAV_1417,NCAV_1417,A0A2K5ASG3,Uncharacterized protein
+NCAV_0781,NCAV_0781,A0A2K5AQM8,Uncharacterized protein
+NCAV_0171,hmgA,A0A2K5AP02,3-hydroxy-3-methylglutaryl coenzyme A reductase (HMG-CoA reductase)
+NCAV_1042,NCAV_1042,A0A2K5ARI9,Uncharacterized protein
+NCAV_1206,NCAV_1206,A0A2K5ARU5,"ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component"
+NCAV_0089,NCAV_0089,A0A2K5ANV5,Putative 4-oxalocrotonate tautomerase
+NCAV_1569,NCAV_1569,A0A2K5ASZ8,"Ribosomal protein S12 methylthiotransferase accessory factor YcaO (ArCOG02882, PF02624, COG1944)"
+NCAV_1020,NCAV_1020,A0A2K5ARE3,EVE domain-containing protein
+NCAV_0607,NCAV_0607,A0A2K5AQ86,Uncharacterized protein
+NCAV_0369,NCAV_0369,A0A2K5APJ8,PepSY domain-containing protein
+NCAV_1553,NCAV_1553,A0A2K5ASU1,Uncharacterized protein
+NCAV_0270,nuoJ,A0A2K5APB9,NADH-quinone oxidoreductase subunit J (EC 1.6.5.11)
+NCAV_1231,aspS,A0A2K5ARW5,Aspartate--tRNA ligase (EC 6.1.1.12) (Aspartyl-tRNA synthetase) (AspRS)
+NCAV_1004,NCAV_1004,A0A2K5AR93,"Putative signal transduction response regulator, receiver domain protein"
+NCAV_0016,NCAV_0016,A0A2K5ANJ3,"ABC-type phosphate/phosphonate transport system, permease component"
+NCAV_0575,NCAV_0575,A0A2K5AQ31,UDP-glucose 4-epimerase
+NCAV_1482,gdhA,A0A2K5ASM7,Glutamate dehydrogenase
+NCAV_0890,NCAV_0890,A0A2K5AR13,UPF0147 protein NCAV_0890
+NCAV_1222,apgM,A0A2K5ARZ9,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.-)"
+NCAV_0873,NCAV_0873,A0A2K5AQY8,dITP/XTP pyrophosphatase (EC 3.6.1.66) (Non-canonical purine NTP pyrophosphatase) (Non-standard purine NTP pyrophosphatase) (Nucleoside-triphosphate diphosphatase) (Nucleoside-triphosphate pyrophosphatase) (NTPase)
+NCAV_0567,mtnP,A0A2K5AQ43,Purine nucleoside phosphorylase (PNP) (EC 2.4.2.1)
+NCAV_0092,NCAV_0092,A0A2K5ANT0,HTH asnC-type domain-containing protein
+NCAV_0896,NCAV_0896,A0A2K5AR00,Peptidase U62
+NCAV_1403,NCAV_1403,A0A2K5ASI1,Uncharacterized protein
+NCAV_1072,NCAV_1072,A0A2K5ARM0,Uncharacterized protein
+NCAV_1258,NCAV_1258,A0A2K5AS14,"Putative SMC domain-containing protein, exonuclease SbcC"
+NCAV_1419,NCAV_1419,A0A2K5ASH0,Uncharacterized protein
+NCAV_1773,NCAV_1773,A0A2K5ATG0,Uncharacterized protein
+NCAV_1433,NCAV_1433,A0A2K5ASL5,Uncharacterized protein
+NCAV_1621,NCAV_1621,A0A2K5AT53,Uncharacterized protein
+NCAV_0839,purE,A0A2K5AQW6,N5-carboxyaminoimidazole ribonucleotide mutase (N5-CAIR mutase) (EC 5.4.99.18) (5-(carboxyamino)imidazole ribonucleotide mutase)
+NCAV_0569,NCAV_0569,A0A2K5AQ47,Uncharacterized protein
+NCAV_0993,ureD,A0A2K5AR88,Urease accessory protein UreD
+NCAV_0381,NCAV_0381,A0A2K5APL0,Prephenate dehydrogenase
+NCAV_0392,NCAV_0392,A0A2K5APM3,Putative sulfur carrier protein AF_0188
+NCAV_1191,NCAV_1191,A0A2K5ARS5,AAA domain-containing protein
+NCAV_0804,bioF,A0A2K5AQQ7,8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+NCAV_1604,NCAV_1604,A0A2K5AT12,Uncharacterized protein
+NCAV_0258,NCAV_0258,A0A2K5AP91,Uncharacterized protein
+NCAV_0878,acsA,A0A2K5AQZ2,Acetyl-CoA synthetase (EC 6.2.1.1)
+NCAV_0052,ribE,A0A2K5ANP3,Riboflavin synthase (EC 2.5.1.9)
+NCAV_1193,NCAV_1193,A0A2K5ART0,Putative Non-specific ribonucleoside hydrolase RihC (EC 3.2.-.-)
+NCAV_0170,NCAV_0170,A0A2K5AP03,"PMT family glycosyltransferase, 4-amino-4-deoxy-L-arabinose transferase"
+NCAV_1328,NCAV_1328,A0A2K5ASB8,Uncharacterized protein
+NCAV_1549,NCAV_1549,A0A2K5ASX8,D-tyrosyl-tRNA(Tyr) deacylase
+NCAV_1794,NCAV_1794,A0A2K5ATJ3,Uncharacterized protein
+NCAV_1651,NCAV_1651,A0A2K5AT73,ATP-dependent helicase
+NCAV_1085,NCAV_1085,A0A2K5ARH7,Uncharacterized protein
+NCAV_1447,NCAV_1447,A0A2K5ASJ2,Uncharacterized protein
+NCAV_1253,lysW,A0A2K5AS02,Alpha-aminoadipate/glutamate carrier protein LysW
+NCAV_0481,rpl21e,A0A2K5APW1,50S ribosomal protein L21e
+NCAV_0140,NCAV_0140,A0A2K5ANX0,"Putative surface-associated Ca2+-binding protein, Haemolysin-type"
+NCAV_1744,NCAV_1744,A0A2K5ATE4,Uncharacterized protein
+NCAV_1293,NCAV_1293,A0A2K5AS37,Uncharacterized protein
+NCAV_1309,NCAV_1309,A0A2K5AS67,Uncharacterized protein
+NCAV_0184,hisD,A0A2K5AP21,Histidinol dehydrogenase (HDH) (EC 1.1.1.23)
+NCAV_1150,hemL,A0A2K5ARS4,"Glutamate-1-semialdehyde 2,1-aminomutase 2 (EC 5.4.3.8)"
+NCAV_0877,NCAV_0877,A0A2K5AR25,Uncharacterized protein
+NCAV_0545,NCAV_0545,A0A2K5AQ05,Putative Nickel-dependent hydrogenase gamma subunit
+NCAV_0827,rps3p,A0A2K5AQV1,30S ribosomal protein S3
+NCAV_0814,NCAV_0814,A0A2K5AQR6,Uncharacterized protein
+NCAV_0075,pyrB,A0A2K5ANQ7,Aspartate carbamoyltransferase (EC 2.1.3.2) (Aspartate transcarbamylase) (ATCase)
+NCAV_1745,NCAV_1745,A0A2K5ATD1,Uncharacterized protein
+NCAV_1515,NCAV_1515,A0A2K5ASR9,MEMO1 family protein NCAV_1515
+NCAV_0611,NCAV_0611,A0A2K5AQA6,DUF1616 domain-containing protein
+NCAV_1169,NCAV_1169,A0A2K5ARR0,Uncharacterized protein
+NCAV_0049,gch,A0A2K5ANS0,GTP cyclohydrolase III (EC 3.5.4.29)
+NCAV_0020,NCAV_0020,A0A2K5ANK0,PhoU family protein
+NCAV_1235,ilvH,A0A2K5ARY0,"Acetolactate synthase III, thiamin-dependent, small subunit (EC 2.2.1.6)"
+NCAV_1583,ctaA,A0A2K5ASX1,Putative cytochrome oxidase assembly protein
+NCAV_1575,NCAV_1575,A0A2K5ASV8,Putative polyketide cyclase/dehydrase
+NCAV_1354,NCAV_1354,A0A2K5AS96,Putative FMN-binding pyridoxamine 5'-phosphate oxidase
+NCAV_0970,NCAV_0970,A0A2K5AR97,Uncharacterized protein
+NCAV_1287,tatC,A0A2K5AS73,Sec-independent protein translocase protein TatC
+NCAV_0547,NCAV_0547,A0A2K5AQ23,"4Fe-4S ferredoxin / putative Nickel-dependent hydrogenase, beta subunit"
+NCAV_1585,coxA,A0A2K5ASW7,Cytochrome c oxidase polypeptide 1 (EC 1.9.3.1)
+NCAV_0863,fpr,A0A2K5AQY2,Ferredoxin--NADP reductase (EC 1.18.1.2)
+NCAV_0309,tktA,A0A2K5APD8,Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+NCAV_0900,rpl10e,A0A2K5AR23,50S ribosomal protein L10e
+NCAV_1640,NCAV_1640,A0A2K5AT26,Cob(I)alamin adenosyltransferase (Modular protein)
+NCAV_0785,NCAV_0785,A0A2K5AQN6,Putative 3-methyladenine DNA glycosylase (EC 3.2.2.-)
+NCAV_0156,mptE,A0A2K5ANY3,"6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase (HPPK) (EC 2.7.6.3) (2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase) (6-hydroxymethyl-7,8-dihydropterin diphosphokinase) (6-HMPDK) (7,8-dihydro-6-hydroxymethylpterin diphosphokinase) (7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase) (PPPK)"
+NCAV_0116,NCAV_0116,A0A2K5ANU4,Uncharacterized protein
+NCAV_0231,NCAV_0231,A0A2K5AP88,Uncharacterized protein
+NCAV_0967,NCAV_0967,A0A2K5ARB7,Putative exonuclease of the beta-lactamase fold
+NCAV_0119,priB,A0A2K5ANY5,DNA primase large subunit PriL
+NCAV_1532,NCAV_1532,A0A2K5ASU9,Glyoxalase/bleomycin resistance protein/dioxygenase (Modular protein)
+NCAV_0276,nuoN,A0A2K5APA2,NADH-quinone oxidoreductase subunit N (EC 1.6.5.11)
+NCAV_1580,NCAV_1580,A0A2K5ASY3,Uncharacterized protein
+NCAV_0362,NCAV_0362,A0A2K5APJ4,Ribosome maturation protein SDO1 homolog
+NCAV_0682,NCAV_0682,A0A2K5AQE1,"Putative hydrogenase expression/formation protein, HupF/HypC"
+NCAV_0450,NCAV_0450,A0A2K5APT3,Uncharacterized protein
+NCAV_0115,NCAV_0115,A0A2K5ANU8,Uncharacterized protein
+NCAV_1650,NCAV_1650,A0A2K5AT37,Cupredoxin
+NCAV_1587,NCAV_1587,A0A2K5ASY2,"Putative heme/copper-type cytochrome/quinol oxidase, subunit"
+NCAV_0974,NCAV_0974,A0A2K5AR67,Uncharacterized protein
+NCAV_0786,NCAV_0786,A0A2K5AQS5,DUF35_N domain-containing protein
+NCAV_0588,cysC,A0A2K5AQ52,Adenylyl-sulfate kinase (EC 2.7.1.25) (APS kinase) (ATP adenosine-5'-phosphosulfate 3'-phosphotransferase) (Adenosine-5'-phosphosulfate kinase)
+NCAV_1199,NCAV_1199,A0A2K5ARU6,Uncharacterized protein
+NCAV_0522,frdA,A0A2K5AQ17,Succinate dehydrogenase flavoprotein subunit /fumarate reductase (EC 1.-.-.-)
+NCAV_0828,rpl22p,A0A2K5AQS6,50S ribosomal protein L22
+NCAV_0190,petC,A0A2K5AP26,Putative Rieske 2Fe-2S domain cytochrome b6-f complex iron-sulfur subunit
+NCAV_1503,gap,A0A2K5ASS3,"Putative glyceraldehyde-3-phosphate dehydrogenase, phosphorylating (EC 1.2.1.59)"
+NCAV_0167,tiaS,A0A2K5AP09,tRNA(Ile2) 2-agmatinylcytidine synthetase TiaS (tRNA(Ile2)-agm2C synthetase) (EC 6.3.4.22) (tRNA(Ile2) agmatidine synthetase)
+NCAV_0325,NCAV_0325,A0A2K5API4,Uncharacterized protein
+NCAV_0380,NCAV_0380,A0A2K5APK7,Nudix hydrolase domain-containing protein
+NCAV_1143,NCAV_1143,A0A2K5ARP5,Adenylate cyclase
+NCAV_0771,NCAV_0771,A0A2K5AQL8,Protein translation factor SUI1 homolog
+NCAV_0131,NCAV_0131,A0A2K5ANW3,Putative PUA domain protein
+NCAV_1797,NCAV_1797,A0A2K5ATI9,Geranylgeranylglyceryl phosphate synthase (GGGP synthase) (GGGPS) (EC 2.5.1.41) ((S)-3-O-geranylgeranylglyceryl phosphate synthase) (Phosphoglycerol geranylgeranyltransferase)
+NCAV_1544,NCAV_1544,A0A2K5ASW0,Ferritin domain-containing protein
+NCAV_0987,ribK,A0A2K5ARE1,CTP-dependent riboflavin kinase (EC 2.7.1.161) (CTP:riboflavin 5'-phosphotransferase) (Flavokinase) (Riboflavin kinase)
+NCAV_1251,lysY,A0A2K5ARY9,Putative [LysW]-L-2-aminoadipate/[LysW]-L-glutamate phosphate reductase (EC 1.2.1.103)
+NCAV_0079,dps,A0A2K5ANU5,DNA protection during starvation protein (EC 1.16.-.-)
+NCAV_1716,gatD,A0A2K5ATC7,Glutamyl-tRNA(Gln) amidotransferase subunit D (Glu-ADT subunit D) (EC 6.3.5.-)
+NCAV_0333,NCAV_0333,A0A2K5API0,"Putative pyridoxamine 5'-phosphate oxidase, FMN-binding protein"
+NCAV_1332,NCAV_1332,A0A2K5AS72,Putative ATP binding protein
+NCAV_1757,NCAV_1757,A0A2K5ATE6,Putative arsenical pump-driving ATPase
+NCAV_1504,NCAV_1504,A0A2K5ASP8,Putative transcriptional regulator PadR-like family protein
+NCAV_1715,NCAV_1715,A0A2K5ATA1,Cell division cycle protein 48 homolog AF_1297
+NCAV_1113,NCAV_1113,A0A2K5ARK8,CoA-binding domain protein
+NCAV_1335,NCAV_1335,A0A2K5AS82,Putative Archaeal preflagellin peptidase FlaK
+NCAV_1454,NCAV_1454,A0A2K5ASJ4,6-pyruvoyl tetrahydropterin synthase
+NCAV_0305,NCAV_0305,A0A2K5APG1,Uncharacterized protein
+NCAV_1298,NCAV_1298,A0A2K5AS53,Rhomboid domain-containing protein
+NCAV_1448,pdxS,A0A2K5ASN0,Pyridoxal 5'-phosphate synthase subunit PdxS (PLP synthase subunit PdxS) (EC 4.3.3.6) (Pdx1)
+NCAV_1311,NCAV_1311,A0A2K5AS64,Methyl-accepting chemotaxis protein
+NCAV_1313,NCAV_1313,A0A2K5AS87,L-hydantoinase HyuH
+NCAV_1740,NCAV_1740,A0A2K5ATD8,Uncharacterized protein
+NCAV_1683,NCAV_1683,A0A2K5AT79,Uncharacterized protein
+NCAV_0269,nuoI,A0A2K5AP95,NADH-quinone oxidoreductase subunit I (EC 1.6.5.11)
+NCAV_0673,NCAV_0673,A0A2K5AQG8,Uncharacterized protein
+NCAV_0580,NCAV_0580,A0A2K5AQ46,Glycos_transf_1 domain-containing protein
+NCAV_1139,NCAV_1139,A0A2K5ARU1,Uncharacterized protein
+NCAV_1144,NCAV_1144,A0A2K5ART9,Inosine monophosphate dehydrogenase
+NCAV_1770,NCAV_1770,A0A2K5ATH4,Uncharacterized protein
+NCAV_0145,cobQ,A0A2K5ANY1,Probable cobyric acid synthase
+NCAV_1513,eno,A0A2K5AST2,Enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (2-phosphoglycerate dehydratase)
+NCAV_0208,tfb,A0A2K5AP36,Transcription initiation factor IIB
+NCAV_0591,NCAV_0591,A0A2K5AQ88,Uncharacterized protein
+NCAV_1783,cas7b,A0A2K5ATH1,"Putative CRISPR-associated negative autoregulator, DevR family"
+NCAV_0050,ribH,A0A2K5ANN4,"6,7-dimethyl-8-ribityllumazine synthase (DMRL synthase) (LS) (Lumazine synthase) (EC 2.5.1.78)"
+NCAV_0295,NCAV_0295,A0A2K5APF0,Uncharacterized protein
+NCAV_0850,NCAV_0850,A0A2K5AQU1,GTP-dependent dephospho-CoA kinase (EC 2.7.1.-) (Dephospho-coenzyme A kinase) (DPCK)
+NCAV_0561,rpl7ae,A0A2K5AQ50,50S ribosomal protein L7Ae (Ribosomal protein L8e)
+NCAV_1170,NCAV_1170,A0A2K5ARS8,Predicted transcriptional regulator with C-terminal CBS domains
+NCAV_1264,NCAV_1264,A0A2K5AS07,Uncharacterized protein
+NCAV_0205,rps8e,A0A2K5AP37,30S ribosomal protein S8e
+NCAV_1097,mqnD,A0A2K5ARQ4,"1,4-dihydroxy-6-naphtoate synthase (EC 4.1.-.-) (Menaquinone biosynthetic enzyme MqnD)"
+NCAV_0924,NCAV_0924,A0A2K5AR20,Uncharacterized protein
+NCAV_1576,NCAV_1576,A0A2K5ASY5,Putative Copper resistance D domain protein
+NCAV_0669,NCAV_0669,A0A2K5AQC3,Uncharacterized protein
+NCAV_0266,NCAV_0266,A0A2K5AP93,NADH dehydrogenase
+NCAV_0180,hisH,A0A2K5AP13,Imidazole glycerol phosphate synthase subunit HisH (EC 4.3.2.10) (IGP synthase glutaminase subunit) (EC 3.5.1.2) (IGP synthase subunit HisH) (ImGP synthase subunit HisH) (IGPS subunit HisH)
+NCAV_0812,NCAV_0812,A0A2K5AQR9,Radical SAM domain protein
+NCAV_0367,NCAV_0367,A0A2K5APH9,Uncharacterized protein
+NCAV_1496,rpoH,A0A2K5ASN6,DNA-directed RNA polymerase subunit H (EC 2.7.7.6)
+NCAV_1801,NCAV_1801,A0A2K5ATL8,Uncharacterized protein
+NCAV_0501,ctaB1,A0A2K5APY4,Protoheme IX farnesyltransferase (EC 2.5.1.141) (Heme B farnesyltransferase) (Heme O synthase)
+NCAV_0686,NCAV_0686,A0A2K5AQI1,Putative beta-lactamase domain protein
+NCAV_1664,prs,A0A2K5AT66,Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+NCAV_1340,NCAV_1340,A0A2K5AS75,Uncharacterized protein
+NCAV_1194,lysE,A0A2K5ART2,L-lysine exporter family protein
+NCAV_1321,purU,A0A2K5AS76,Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+NCAV_1239,NCAV_1239,A0A2K5ARY1,AAA domain-containing protein
+NCAV_0714,NCAV_0714,A0A2K5AQJ4,Uncharacterized protein
+NCAV_1070,NCAV_1070,A0A2K5ARI5,Uncharacterized protein
+NCAV_0268,NCAV_0268,A0A2K5APA3,NADH dehydrogenase subunit H (EC 1.6.5.3)
+NCAV_1673,NCAV_1673,A0A2K5AT64,Uncharacterized protein
+NCAV_0221,hemC,A0A2K5AP83,Probable porphobilinogen deaminase (PBG) (EC 2.5.1.61) (Hydroxymethylbilane synthase) (HMBS) (Pre-uroporphyrinogen synthase)
+NCAV_0137,NCAV_0137,A0A2K5ANY0,Uncharacterized protein
+NCAV_0018,NCAV_0018,A0A2K5ANJ4,"Phosphate/phosphite/phosphonate ABC transporter, periplasmic binding protein"
+NCAV_1172,NCAV_1172,A0A2K5ARV3,Putative threonylcarbamoyladenosine tRNA methylthiotransferase (EC 2.8.4.5)
+NCAV_1719,NCAV_1719,A0A2K5ATA4,Uncharacterized protein
+NCAV_1699,NCAV_1699,A0A2K5AT88,Uncharacterized protein
+NCAV_0711,tgtA,A0A2K5AQG0,tRNA-guanine(15) transglycosylase (EC 2.4.2.48) (7-cyano-7-deazaguanine tRNA-ribosyltransferase) (Archaeal tRNA-guanine transglycosylase)
+NCAV_0813,NCAV_0813,A0A2K5AQQ8,Uncharacterized protein
+NCAV_1500,NCAV_1500,A0A2K5ASN7,zinc_ribbon_2 domain-containing protein
+NCAV_1198,NCAV_1198,A0A2K5ARW1,Uncharacterized protein
+NCAV_1579,NCAV_1579,A0A2K5AT13,Uncharacterized protein
+NCAV_0414,nnrD,A0A2K5APM9,ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136) (ADP-dependent NAD(P)HX dehydratase)
+NCAV_0841,purF,A0A2K5AQZ4,Amidophosphoribosyltransferase (ATase) (EC 2.4.2.14) (Glutamine phosphoribosylpyrophosphate amidotransferase) (GPATase)
+NCAV_1775,NCAV_1775,A0A2K5ATF6,Uncharacterized protein
+NCAV_1125,NCAV_1125,A0A2K5ARM2,Uncharacterized protein
+NCAV_0775,NCAV_0775,A0A2K5AQM6,Predicted endonuclease related to archaeal Holliday junction resolvase
+NCAV_1630,NCAV_1630,A0A2K5AT17,Uncharacterized protein
+NCAV_0695,NCAV_0695,A0A2K5AQE7,Putative Terminase-like family protein
+NCAV_1210,NCAV_1210,A0A2K5ARW7,HTH asnC-type domain-containing protein
+NCAV_0422,NCAV_0422,A0A2K5APQ4,Uncharacterized protein
+NCAV_0736,rlmE,A0A2K5AQM7,Ribosomal RNA large subunit methyltransferase E (EC 2.1.1.166) (23S rRNA Um2552 methyltransferase) (rRNA (uridine-2'-O-)-methyltransferase)
+NCAV_0586,NCAV_0586,A0A2K5AQA0,Uncharacterized protein
+NCAV_1187,NCAV_1187,A0A2K5ARX6,Uncharacterized protein
+NCAV_0942,NCAV_0942,A0A2K5AR92,Uncharacterized protein
+NCAV_1352,NCAV_1352,A0A2K5AS90,Uncharacterized protein
+NCAV_1028,NCAV_1028,A0A2K5ARF3,Uncharacterized protein
+NCAV_0832,rpl3p,A0A2K5AQT8,50S ribosomal protein L3p
+NCAV_1385,NCAV_1385,A0A2K5ASE0,Uncharacterized protein
+NCAV_1136,NCAV_1136,A0A2K5ARN0,Uncharacterized protein
+NCAV_1334,NCAV_1334,A0A2K5AS71,"ABC-type nitrate/sulfonate/bicarbonate transport system, permease component"
+NCAV_1290,NCAV_1290,A0A2K5AS50,SGL domain-containing protein
+NCAV_1491,NCAV_1491,A0A2K5ASQ7,Uncharacterized protein
+NCAV_0734,NCAV_0734,A0A2K5AQL3,Nucleoside-triphosphatase NCAV_0734 (NTPase) (EC 3.6.1.15) (Nucleoside triphosphate phosphohydrolase)
+NCAV_0204,scpB,A0A2K5AP38,Chromosome segregation and condensation protein ScpB
+NCAV_1135,NCAV_1135,A0A2K5ARN3,Uncharacterized protein
+NCAV_0895,NCAV_0895,A0A2K5AQZ7,Uncharacterized protein
+NCAV_1281,purP,A0A2K5AS17,5-formaminoimidazole-4-carboxamide-1-(Beta)-D-ribofuranosyl 5'-monophosphate synthetase (EC 6.3.4.23)
+NCAV_1479,bcp,A0A2K5ASM0,Putative peroxiredoxin bcp (EC 1.11.1.15)
+NCAV_1190,NCAV_1190,A0A2K5ARU9,Uncharacterized protein
+NCAV_0515,cysA,A0A2K5APX2,Sulfurtransferase
+NCAV_1126,NCAV_1126,A0A2K5ARL8,Uncharacterized protein
+NCAV_1615,etfA,A0A2K5AT00,Electron transfer flavoprotein subunit alpha
+NCAV_0581,NCAV_0581,A0A2K5AQ77,Uncharacterized protein
+NCAV_0908,NCAV_0908,A0A2K5AR19,"Cyclic 2, 3-diphosphoglycerate synthetase"
+NCAV_0427,fen,A0A2K5APP6,Flap endonuclease 1 (FEN-1) (EC 3.1.-.-) (Flap structure-specific endonuclease 1)
+NCAV_0097,sat,A0A2K5ANT4,Sulfate adenylyltransferase (EC 2.7.7.4) (ATP-sulfurylase) (Sulfate adenylate transferase) (SAT)
+NCAV_0500,NCAV_0500,A0A2K5APX0,Uncharacterized protein
+NCAV_1528,NCAV_1528,A0A2K5ASS2,Poly(3-hydroxyalkanoate) polymerase subunit PhaE
+NCAV_0254,NCAV_0254,A0A2K5AP84,"2:oxoacid-ferredoxin oxidoreductase, fused alpha and gamma subunit (EC 1.2.7.3)"
+NCAV_0527,NCAV_0527,A0A2K5APZ9,Uncharacterized protein
+NCAV_0385,aroA,A0A2K5APP4,3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19) (5-enolpyruvylshikimate-3-phosphate synthase) (EPSP synthase) (EPSPS)
+NCAV_0293,tbp,A0A2K5APE2,TATA-box-binding protein (Box A-binding protein) (BAP) (TATA sequence-binding protein) (TBP) (TATA-box factor)
+NCAV_0244,cmk,A0A2K5AP74,Cytidine monophosphate kinase (EC 2.7.4.25) (Cytidylate kinase)
+NCAV_1175,NCAV_1175,A0A2K5ARR6,Uncharacterized protein
+NCAV_0186,NCAV_0186,A0A2K5AP20,Uncharacterized protein
+NCAV_1238,NCAV_1238,A0A2K5ARZ6,Putative CorA-like transport protein
+NCAV_0207,NCAV_0207,A0A2K5AP54,Uncharacterized protein
+NCAV_0073,NCAV_0073,A0A2K5ANR1,Uncharacterized protein
+NCAV_0505,NCAV_0505,A0A2K5APW5,DUF1610 domain-containing protein
+NCAV_0040,NCAV_0040,A0A2K5ANM1,Putative Proteasome assembly chaperone
+NCAV_0716,NCAV_0716,A0A2K5AQK8,GRAM domain-containing protein
+NCAV_0920,NCAV_0920,A0A2K5AR49,Uncharacterized protein
+NCAV_0653,carA,A0A2K5AQA7,Carbamoyl-phosphate synthase small chain (EC 6.3.5.5) (Carbamoyl-phosphate synthetase glutamine chain)
+NCAV_1507,NCAV_1507,A0A2K5ASQ3,OsmC-like protein (Osmotic induced)
+NCAV_1560,sodA,A0A2K5ASW1,Superoxide dismutase (EC 1.15.1.1)
+NCAV_1786,cas6,A0A2K5ATJ6,CRISPR-associated endoribonuclease
+NCAV_0533,NCAV_0533,A0A2K5AQ04,Uncharacterized protein
+NCAV_1026,NCAV_1026,A0A2K5ARC6,Uncharacterized protein
+NCAV_0907,NCAV_0907,A0A2K5AR56,"Microtubule binding protein, putative"
+NCAV_0495,NCAV_0495,A0A2K5APU9,Endonuclease IV
+NCAV_0799,tpiA,A0A2K5AQR0,Triosephosphate isomerase (EC 5.3.1.1)
+NCAV_1119,NCAV_1119,A0A2K5ARL5,Uncharacterized protein
+NCAV_1736,NCAV_1736,A0A2K5ATE9,HTH arsR-type domain-containing protein
+NCAV_0323,nfi,A0A2K5APH4,Endonuclease V (EC 3.1.21.7) (Deoxyinosine 3'endonuclease) (Deoxyribonuclease V) (DNase V)
+NCAV_0858,nadX,A0A2K5AQX8,L-aspartate dehydrogenase (EC 1.4.1.21)
+NCAV_1734,NCAV_1734,A0A2K5ATD6,"7,8-dihydro-6-hydroxymethylpterin dimethyltransferase (EC 2.1.1.-)"
+NCAV_0421,sdr,A0A2K5APQ5,Glucose/ribitol dehydrogenase family protein (EC 1.1.1.-)
+NCAV_1543,NCAV_1543,A0A2K5AST4,"Transcriptional regulator, AsnC family"
+NCAV_0445,NCAV_0445,A0A2K5APV5,Uncharacterized protein
+NCAV_1117,eIF1A,A0A2K5ARS3,Translation initiation factor 1A (aIF-1A)
+NCAV_1096,NCAV_1096,A0A2K5ARJ4,Uncharacterized protein
+NCAV_0867,NCAV_0867,A0A2K5AR15,Putative Inositol 2-dehydrogenase (EC 1.1.1.18)
+NCAV_0641,metG,A0A2K5AQC0,Methionine--tRNA ligase (EC 6.1.1.10) (Methionyl-tRNA synthetase) (MetRS)
+NCAV_1213,menA,A0A2K5ARV9,"1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)"
+NCAV_0151,ths2,A0A2K5ANY4,Thermosome subunit
+NCAV_0002,NCAV_0002,A0A2K5ANJ8,Uncharacterized protein
+NCAV_0470,NCAV_0470,A0A2K5APV2,Uncharacterized protein
+NCAV_0411,argS,A0A2K5APP3,Arginine--tRNA ligase (EC 6.1.1.19) (Arginyl-tRNA synthetase) (ArgRS)
+NCAV_0010,NCAV_0010,A0A2K5ANJ0,SHSP domain-containing protein
+NCAV_0935,purA,A0A2K5AR41,Adenylosuccinate synthetase (AMPSase) (AdSS) (EC 6.3.4.4) (IMP--aspartate ligase)
+NCAV_1307,NCAV_1307,A0A2K5AS51,Agmatinase (EC 3.5.3.11)
+NCAV_1439,NCAV_1439,A0A2K5ASI9,tRNA uridine(34) acetyltransferase
+NCAV_0661,NCAV_0661,A0A2K5AQF3,"Indolepyruvate ferredoxin oxidoreductase, alpha and beta subunits (EC 1.2.7.8)"
+NCAV_1752,NCAV_1752,A0A2K5ATE7,UPF0201 protein NCAV_1752
+NCAV_1147,NCAV_1147,A0A2K5ARP0,Nucleotide-binding protein related to universal stress protein UspA
+NCAV_1669,bluB,A0A2K5AT56,"5,6-dimethylbenzimidazole synthase (EC 1.13.11.79)"
+NCAV_0931,NCAV_0931,A0A2K5AR33,Uncharacterized protein
+NCAV_1162,NCAV_1162,A0A2K5ARU7,Uncharacterized protein
+NCAV_1074,map,A0A2K5ARG8,Methionine aminopeptidase (MAP) (MetAP) (EC 3.4.11.18) (Peptidase M)
+NCAV_1363,cheD,A0A2K5ASE1,Probable chemoreceptor glutamine deamidase CheD (EC 3.5.1.44)
+NCAV_1057,NCAV_1057,A0A2K5ARL2,Uncharacterized protein
+NCAV_0144,dapL,A0A2K5ANX7,L-threonine-O-3-phosphate decarboxylase (EC 4.1.1.81)
+NCAV_1386,NCAV_1386,A0A2K5ASD3,Uncharacterized protein
+NCAV_1709,NCAV_1709,A0A2K5AT94,Phosphate transport system permease protein PstA
+NCAV_0834,NCAV_0834,A0A2K5AQS9,Uncharacterized protein
+NCAV_0400,NCAV_0400,A0A2K5APN0,Cyclophil_like domain-containing protein
+NCAV_1607,accC,A0A2K5ASZ3,"Acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylation subunit (EC 6.3.4.14) (EC 6.4.1.2)"
+NCAV_0143,asd,A0A2K5ANX6,Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+NCAV_0343,leuC,A0A2K5APJ3,3-isopropylmalate dehydratase large subunit (EC 4.2.1.33) (Alpha-IPM isomerase) (IPMI) (Isopropylmalate isomerase)
+NCAV_0358,rpl37ae,A0A2K5API2,50S ribosomal protein L37Ae
+NCAV_0969,NCAV_0969,A0A2K5AR71,Uncharacterized protein
+NCAV_1284,NCAV_1284,A0A2K5AS25,ABC2_membrane domain-containing protein
+NCAV_0980,NCAV_0980,A0A2K5ARA6,Putative Arsenate reductase and related protein
+NCAV_1294,argH,A0A2K5AS42,Argininosuccinate lyase (ASAL) (EC 4.3.2.1) (Arginosuccinase)
+NCAV_1079,NCAV_1079,A0A2K5ARI2,tRNA-binding protein
+NCAV_1121,top6A,A0A2K5ARM6,Type 2 DNA topoisomerase 6 subunit A (EC 5.6.2.2) (Type II DNA topoisomerase VI subunit A)
+NCAV_1554,rpl19e,A0A2K5ASX4,50S ribosomal protein L19e
+NCAV_0206,srp,A0A2K5AP40,Signal recognition particle 19 kDa protein (SRP19)
+NCAV_0472,NCAV_0472,A0A2K5APU6,Putative digeranylgeranylglycerophospholipid reductase
+NCAV_1291,NCAV_1291,A0A2K5AS26,TRUD domain-containing protein
+NCAV_1058,NCAV_1058,A0A2K5ARJ0,Uncharacterized protein
+NCAV_0181,hisB,A0A2K5AP12,Imidazoleglycerol-phosphate dehydratase (IGPD) (EC 4.2.1.19)
+NCAV_1471,NCAV_1471,A0A2K5ASN5,Putative 4-hydroxybenzoate polyprenyltransferase-like prenyltransferase (EC 2.5.1.-)
+NCAV_0538,NCAV_0538,A0A2K5AQ01,"Regulatory protein, ArsR"
+NCAV_0958,NCAV_0958,A0A2K5AR77,Uncharacterized protein
+NCAV_1133,NCAV_1133,A0A2K5ARN5,Acylphosphatase (EC 3.6.1.7)
+NCAV_1511,argD,A0A2K5ASS8,Acetylornithine aminotransferase (EC 2.6.1.11)
+NCAV_0901,NCAV_0901,A0A2K5AQZ9,Uncharacterized protein
+NCAV_1068,NCAV_1068,A0A2K5ARK1,Uncharacterized protein
+NCAV_1519,gds,A0A2K5ASR0,Geranylgeranyl pyrophosphate synthase (EC 2.5.1.29)
+NCAV_1461,NCAV_1461,A0A2K5ASM4,Putative pterin-4-alpha-carbinolamine dehydratase (PHS) (EC 4.2.1.96) (4-alpha-hydroxy-tetrahydropterin dehydratase) (Pterin carbinolamine dehydratase) (PCD)
+NCAV_0932,NCAV_0932,A0A2K5AR85,Uncharacterized protein
+NCAV_0718,NCAV_0718,A0A2K5AQM1,Uncharacterized protein
+NCAV_0805,NCAV_0805,A0A2K5AQU4,"SNF7-domain-containing protein, cdv-B like"
+NCAV_0937,NCAV_0937,A0A2K5AR83,Uncharacterized protein
+NCAV_0650,NCAV_0650,A0A2K5AQA2,Uncharacterized protein
+NCAV_0041,NCAV_0041,A0A2K5ANM0,Small heat shock protein HSP20
+NCAV_0915,NCAV_0915,A0A2K5AR22,Uncharacterized protein
+NCAV_0676,NCAV_0676,A0A2K5AQH3,Uncharacterized protein
+NCAV_1570,NCAV_1570,A0A2K5ASX6,Bile Acid-Sodium symporter family protein
+NCAV_1680,NCAV_1680,A0A2K5AT76,Putative kynurenine formamidase (EC 3.5.1.9)
+NCAV_0553,NCAV_0553,A0A2K5AQ18,Protein archease
+NCAV_1675,NCAV_1675,A0A2K5AT65,Uncharacterized protein
+NCAV_1484,NCAV_1484,A0A2K5ASM6,Uncharacterized protein
+NCAV_1003,NCAV_1003,A0A2K5ARA0,Urea transporter SSS family fused to histidine kinase domain (EC 2.7.13.3)
+NCAV_0201,adh,A0A2K5AP32,NAD-dependent alcohol dehydrogenase (EC 1.1.1.1)
+NCAV_0504,ef1b,A0A2K5AQ08,Elongation factor 1-beta (EF-1-beta) (aEF-1beta)
+NCAV_0570,NCAV_0570,A0A2K5AQ34,Oxidoreductase protein family
+NCAV_0602,NCAV_0602,A0A2K5AQ90,Uncharacterized protein
+NCAV_0860,NCAV_0860,A0A2K5AQY5,UPF0215 protein NCAV_0860
+NCAV_0499,NCAV_0499,A0A2K5APX7,Uncharacterized protein
+NCAV_1063,NCAV_1063,A0A2K5ARF6,Uncharacterized protein
+NCAV_0255,NCAV_0255,A0A2K5AP92,"2:oxoacid-ferredoxin oxidoreductase, beta subunit (EC 1.2.7.3)"
+NCAV_0557,infB,A0A2K5AQ32,Probable translation initiation factor IF-2
+NCAV_1626,NCAV_1626,A0A2K5AT44,Uncharacterized protein
+NCAV_1317,NCAV_1317,A0A2K5AS63,Putative snRNP Sm-like protein
+NCAV_0150,rpl44e,A0A2K5ANY2,50S ribosomal protein L44e
+NCAV_1252,lysX,A0A2K5AS27,Alpha-aminoadipate--LysW ligase LysX (EC 6.3.2.43)
+NCAV_1387,NCAV_1387,A0A2K5ASD5,Uncharacterized protein
+NCAV_1351,NCAV_1351,A0A2K5ASA3,Uncharacterized protein
+NCAV_1802,NCAV_1802,A0A2K5ATJ8,Putative lyase
+NCAV_0291,NCAV_0291,A0A2K5APC3,Uncharacterized protein
+NCAV_0874,taw,A0A2K5AQX6,S-adenosyl-L-methionine-dependent tRNA 4-demethylwyosine synthase (EC 4.1.3.44) (tRNA wyosine derivatives biosynthesis protein Taw1)
+NCAV_0836,psmA,A0A2K5AQX7,Proteasome subunit alpha (EC 3.4.25.1)
+NCAV_1112,NCAV_1112,A0A2K5ARR1,Uncharacterized protein
+NCAV_0379,NCAV_0379,A0A2K5APK8,DNA topoisomerase I (EC 5.99.1.2)
+NCAV_1329,NCAV_1329,A0A2K5AS83,Uncharacterized protein
+NCAV_1668,NCAV_1668,A0A2K5AT69,Putative Amidohydrolase
+NCAV_1679,NCAV_1679,A0A2K5AT72,Uncharacterized protein
+NCAV_0707,NCAV_0707,A0A2K5AQE8,Uncharacterized protein
+NCAV_0428,NCAV_0428,A0A2K5APP8,zf-TFIIB domain-containing protein
+NCAV_0405,NCAV_0405,A0A2K5APR7,Uncharacterized protein
+NCAV_0432,MPST,A0A2K5APR1,"Rhodanese domain-containing protein (TST, MPST, sseA) (EC 2.8.1.1)"
+NCAV_0956,NCAV_0956,A0A2K5AR52,Cupin 2 conserved barrel domain protein
+NCAV_0528,NCAV_0528,A0A2K5APZ4,Uncharacterized protein
+NCAV_1724,glnB,A0A2K5ATC3,Nitrogen regulatory protein P-II
+NCAV_1259,NCAV_1259,A0A2K5ARZ8,DrsE domain-containing protein
+NCAV_1276,NCAV_1276,A0A2K5AS20,Putative radical SAM domain protein
+NCAV_0521,NCAV_0521,A0A2K5AQ03,Uncharacterized protein
+NCAV_0808,NCAV_0808,A0A2K5AQU5,Uncharacterized protein
+NCAV_1468,NCAV_1468,A0A2K5ASP5,SIS domain-containing protein
+NCAV_0981,cysS,A0A2K5AR84,Cysteine--tRNA ligase (EC 6.1.1.16) (Cysteinyl-tRNA synthetase) (CysRS)
+NCAV_1218,NCAV_1218,A0A2K5ARX8,Uncharacterized protein
+NCAV_0272,nuoK,A0A2K5APD1,NADH-quinone oxidoreductase subunit K (EC 1.6.5.11)
+NCAV_0289,NCAV_0289,A0A2K5APB2,DNA protection during starvation protein (EC 1.16.-.-)
+NCAV_0215,NCAV_0215,A0A2K5AP42,Voltage-gated potassium channel-subunit family protein
+NCAV_0456,NCAV_0456,A0A2K5APS9,Uncharacterized protein
+NCAV_0982,NCAV_0982,A0A2K5ARD5,Uncharacterized protein
+NCAV_1741,NCAV_1741,A0A2K5ATG6,Uncharacterized protein
+NCAV_1316,NCAV_1316,A0A2K5AS68,Uncharacterized protein
+NCAV_1487,erpA,A0A2K5ASN4,Putative iron-sulfur cluster insertion protein ErpA
+NCAV_1244,NCAV_1244,A0A2K5ARZ0,Uncharacterized protein
+NCAV_0488,NCAV_0488,A0A2K5APV6,Uncharacterized protein
+NCAV_0630,NCAV_0630,A0A2K5AQ84,Uncharacterized protein
+NCAV_1027,NCAV_1027,A0A2K5ARH9,Uncharacterized protein
+NCAV_1469,NCAV_1469,A0A2K5ASL3,NTP_transferase domain-containing protein
+NCAV_0080,NCAV_0080,A0A2K5ANR2,Dehydrogenase
+NCAV_0733,alx,A0A2K5AQM3,Tellurium ion resistance family protein
+NCAV_0182,NCAV_0182,A0A2K5AP16,Putative haloacid dehalogenase domain protein hydrolase
+NCAV_0740,sucD,A0A2K5AQJ3,Succinate--CoA ligase [ADP-forming] subunit alpha (EC 6.2.1.5) (Succinyl-CoA synthetase subunit alpha) (SCS-alpha)
+NCAV_1662,queE,A0A2K5AT61,7-carboxy-7-deazaguanine synthase (CDG synthase) (EC 4.3.99.3) (Archaeosine biosynthesis protein QueE)
+NCAV_1713,NCAV_1713,A0A2K5AT98,Uncharacterized protein
+NCAV_0985,NCAV_0985,A0A2K5AR86,FAD dependent oxidoreductase
+NCAV_0246,NCAV_0246,A0A2K5AP70,Uncharacterized protein
+NCAV_0696,NCAV_0696,A0A2K5AQJ0,Uncharacterized protein
+NCAV_1246,NCAV_1246,A0A2K5ARZ1,Uncharacterized protein
+NCAV_0713,NCAV_0713,A0A2K5AQK5,Putative adenylate kinase (AK) (EC 2.7.4.3) (ATP-AMP transphosphorylase)
+NCAV_1347,NCAV_1347,A0A2K5AS92,Putative prepilin peptidase
+NCAV_0490,amoC,A0A2K5APV8,"Ammonia monooxygenase/methane monooxygenase, subunit C"
+NCAV_0706,NCAV_0706,A0A2K5AQJ8,Uncharacterized protein
+NCAV_1474,NCAV_1474,A0A2K5ASL2,Uncharacterized protein
+NCAV_0155,NCAV_0155,A0A2K5ANZ1,Uncharacterized protein
+NCAV_0068,NCAV_0068,A0A2K5ANP6,Uncharacterized protein
+NCAV_1362,cheC,A0A2K5ASA0,Putative chemotaxis protein cheC
+NCAV_1315,NCAV_1315,A0A2K5AS60,Uncharacterized protein
+NCAV_1183,NCAV_1183,A0A2K5ARR7,Uncharacterized protein
+NCAV_1521,NCAV_1521,A0A2K5ASU4,HTH_45 domain-containing protein
+NCAV_0088,NCAV_0088,A0A2K5ANR6,Putative carbon-nitrogen hydrolase
+NCAV_0639,NCAV_0639,A0A2K5AQC4,Nicotinamide-nucleotide adenylyltransferase (EC 2.7.7.1) (NAD(+) diphosphorylase) (NAD(+) pyrophosphorylase) (NMN adenylyltransferase)
+NCAV_1402,rpl39e,A0A2K5ASD6,50S ribosomal protein L39e
+NCAV_1039,NCAV_1039,A0A2K5ARE2,Uncharacterized protein
+NCAV_0147,cobS,A0A2K5ANY7,Adenosylcobinamide-GDP ribazoletransferase (EC 2.7.8.26) (Cobalamin synthase) (Cobalamin-5'-phosphate synthase)
+NCAV_0898,NCAV_0898,A0A2K5AR12,Uncharacterized protein
+NCAV_0939,NCAV_0939,A0A2K5AR39,Putative TatD-like deoxyribonuclease
+NCAV_0197,NCAV_0197,A0A2K5AP43,Putative Zn-dependent protease-like protein
+NCAV_0228,nifU,A0A2K5AP60,NifU-like protein
+NCAV_0629,NCAV_0629,A0A2K5AQC2,"Methylmalonyl-CoA mutase, small subunit, C-terminus (EC 5.4.99.2)"
+NCAV_0183,hisC,A0A2K5AP19,Histidinol-phosphate aminotransferase (EC 2.6.1.9)
+NCAV_0357,NCAV_0357,A0A2K5APH3,Uncharacterized protein
+NCAV_1438,NCAV_1438,A0A2K5ASM1,Putative nuclease
+NCAV_1037,NCAV_1037,A0A2K5ARJ1,Uncharacterized protein
+NCAV_0071,NCAV_0071,A0A2K5ANQ3,Archaeal/vacuolar-type H+-ATPase subunit C (EC 3.6.3.14)
+NCAV_0235,NCAV_0235,A0A2K5AP61,Putative Transcriptional regulator TrmB
+NCAV_0322,NCAV_0322,A0A2K5APF4,RNA-binding protein
+NCAV_0476,icd,A0A2K5APY7,Putative isocitrate/isopropylmalate dehydrogenase (EC 1.1.1.-) (EC 1.1.1.41)
+NCAV_0654,carB,A0A2K5AQE2,Carbamoyl-phosphate synthetase ammonia chain
+NCAV_0923,NCAV_0923,A0A2K5AR26,Uncharacterized protein
+NCAV_1280,NCAV_1280,A0A2K5AS41,"Putative bifunctional nuclease, with DNase and RNase activity"
+NCAV_1179,NCAV_1179,A0A2K5ARR8,Adenylate cyclase
+NCAV_0277,NCAV_0277,A0A2K5APB1,Uncharacterized protein
+NCAV_0916,rps17e,A0A2K5AR17,30S ribosomal protein S17e
+NCAV_0249,NCAV_0249,A0A2K5AP81,Uncharacterized protein
+NCAV_0862,NCAV_0862,A0A2K5AR14,Uncharacterized protein
+NCAV_1275,NCAV_1275,A0A2K5AS24,ABC transporter ATP-binding protein
+NCAV_0429,thyX,A0A2K5APP9,Putative thymidylate synthase ThyX
+NCAV_0925,NCAV_0925,A0A2K5AR30,Fe-S cluster protector protein
+NCAV_0031,NCAV_0031,A0A2K5ANL1,Putative peptidase M50
+NCAV_1457,NCAV_1457,A0A2K5ASK1,Uncharacterized protein
+NCAV_1348,NCAV_1348,A0A2K5ASD4,Uncharacterized protein
+NCAV_0407,NCAV_0407,A0A2K5APM4,TPR repeat protein
+NCAV_1051,NCAV_1051,A0A2K5ARG1,Uncharacterized protein
+NCAV_1215,NCAV_1215,A0A2K5ARV4,Uncharacterized protein
+NCAV_0093,NCAV_0093,A0A2K5ANT3,Swiveling domain associated with predicted aconitase X
+NCAV_0339,eif,A0A2K5APG6,Translation initiation factor 6 (aIF-6)
+NCAV_0689,NCAV_0689,A0A2K5AQF5,Uncharacterized protein
+NCAV_0370,NCAV_0370,A0A2K5APJ7,"Protocatechuate 3,4-dioxygenase beta subunit"
+NCAV_1225,NCAV_1225,A0A2K5ARW4,C2H2-type domain-containing protein
+NCAV_0947,NCAV_0947,A0A2K5AR96,Uncharacterized protein
+NCAV_1596,putB,A0A2K5ASY0,Proline dehydrogenase (EC 1.5.5.2)
+NCAV_0494,NCAV_0494,A0A2K5AQ02,Uncharacterized protein
+NCAV_0968,purN,A0A2K5AR90,Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+NCAV_0135,NCAV_0135,A0A2K5ANX3,Uncharacterized protein
+NCAV_1265,NCAV_1265,A0A2K5AS16,Putative phage shock protein A
+NCAV_0043,dnaK,A0A2K5ANM8,Chaperone protein DnaK (HSP70) (Heat shock 70 kDa protein) (Heat shock protein 70)
+NCAV_0883,NCAV_0883,A0A2K5AQZ1,HTH_45 domain-containing protein
+NCAV_1412,NCAV_1412,A0A2K5ASE5,Uncharacterized protein
+NCAV_0489,amoB,A0A2I7UGI0,Ammonia monooxygenase subunit B (Putative archaeal ammonia monooxygenase subunit B)
+NCAV_0492,amoA,A0A2I7UGI1,Ammonia monooxygenase subunit A
+NCAV_1221,NCAV_1221,A0A2K5ARV5,Uncharacterized protein
+NCAV_0764,NCAV_0764,A0A2K5AQP1,Aminodeoxychorismate/anthranilate synthase component II
+NCAV_0725,NCAV_0725,A0A2K5AQG9,"Manganese/Zinc/Iron Chelate Uptake Transporter (MZT) Family, permease component"
+NCAV_0497,NCAV_0497,A0A2K5APW8,Uncharacterized protein
+NCAV_1115,eif2b,A0A2K5ARK6,Translation initiation factor 2 subunit beta (aIF2-beta) (eIF-2-beta)
+NCAV_1220,NCAV_1220,A0A2K5ARX4,Putative 30S ribosomal protein S24e
+NCAV_1266,NCAV_1266,A0A2K5AS09,Uncharacterized protein
+NCAV_0965,NCAV_0965,A0A2K5AR64,Metallophos_2 domain-containing protein
+NCAV_0245,truB,A0A2K5AP78,Probable tRNA pseudouridine synthase B (EC 5.4.99.25) (tRNA pseudouridine(55) synthase) (Psi55 synthase) (tRNA pseudouridylate synthase) (tRNA-uridine isomerase)
+NCAV_0077,NCAV_0077,A0A2K5ANR4,Vitamin B12-dependent ribonucleotide reductase (EC 1.17.4.1)
+NCAV_1014,NCAV_1014,A0A2K5ARA1,Uncharacterized protein
+NCAV_0818,rps14p,A0A2K5AQS0,30S ribosomal protein S14 type Z
+NCAV_0120,NCAV_0120,A0A2K5ANU9,Uncharacterized protein
+NCAV_1678,rps19e,A0A2K5AT81,30S ribosomal protein S19e
+NCAV_0509,NCAV_0509,A0A2K5APY5,MFS transporter
+NCAV_0769,NCAV_0769,A0A2K5AQN1,Uncharacterized protein
+NCAV_0393,cysM,A0A2K5APQ0,Cysteine synthase (EC 2.5.1.47)
+NCAV_0146,cobD,A0A2K5ANX5,Probable cobalamin biosynthesis protein CobD
+NCAV_1558,NCAV_1558,A0A2K5ASV2,PfkB domain-containing protein
+NCAV_1755,NCAV_1755,A0A2K5ATE0,Phosphoribosylaminoimidazolesuccinocarboxamide synthase (EC 6.3.2.6)
+NCAV_0737,NCAV_0737,A0A2K5AQH7,B-block_TFIIIC domain-containing protein
+NCAV_1467,NCAV_1467,A0A2K5ASL6,Uncharacterized protein
+NCAV_1411,NCAV_1411,A0A2K5ASG6,Uncharacterized protein
+NCAV_0242,adkA,A0A2K5AP98,Adenylate kinase (AK) (EC 2.7.4.3) (ATP-AMP transphosphorylase)
+NCAV_0081,NCAV_0081,A0A2K5ANR3,Uncharacterized protein
+NCAV_1278,NCAV_1278,A0A2K5AS39,Uncharacterized protein
+NCAV_1599,NCAV_1599,A0A2K5ASZ0,Uncharacterized protein
+NCAV_1217,NCAV_1217,A0A2K5AS10,Uncharacterized protein
+NCAV_0005,NCAV_0005,A0A2K5ANI6,Uncharacterized protein
+NCAV_1661,queC,A0A2K5AT84,ExsB family protein (QueC)
+NCAV_0191,petB,A0A2K5AP22,Putative cytochrome b/b6
+NCAV_0525,sdhB,A0A2K5APY3,FeS-center protein of succinate dehydrogenase/fumarate reductase (EC 1.-.-.-)
+NCAV_1627,NCAV_1627,A0A2K5AT18,Uncharacterized ABC transporter ATP-binding protein TM_0352
+NCAV_0471,NCAV_0471,A0A2K5APW0,Geranylgeranyl diphosphate synthase (EC 2.5.1.29)
+NCAV_1005,spo0C,A0A2K5ARA4,Chromosome-partitioning protein Spo0J
+NCAV_0704,NCAV_0704,A0A2K5AQI4,Uncharacterized protein
+NCAV_1637,NCAV_1637,A0A2K5AT29,Zn-dependent hydrolase
+NCAV_0990,NCAV_0990,A0A2K5ARB6,Putative nickel/cobalt transporter
+NCAV_0902,NCAV_0902,A0A2K5AR54,Uncharacterized protein
+NCAV_0103,NCAV_0103,A0A2K5ANU3,Protein NCAV_0103
+NCAV_0418,NCAV_0418,A0A2K5APP0,H/ACA RNA-protein complex component Cbf5p
+NCAV_1279,fusA,A0A2K5AS18,Elongation factor 2
+NCAV_1285,NCAV_1285,A0A2K5AS36,ATPase component
+NCAV_0271,NCAV_0271,A0A2K5AP86,Uncharacterized protein
+NCAV_1095,NCAV_1095,A0A2K5ARI4,Uncharacterized protein
+NCAV_1753,NCAV_1753,A0A2K5ATE1,Uncharacterized protein
+NCAV_0766,NCAV_0766,A0A2K5AQQ9,Putative hemerythrin HHE cation binding domain protein
+NCAV_1237,NCAV_1237,A0A2K5AS23,SnoaL-like domain-containing protein
+NCAV_0544,NCAV_0544,A0A2K5AQ45,Putative Nickel-dependent hydrogenase delta subunit
+NCAV_0869,hel308,A0A2K5AQW4,ATP-dependent DNA helicase Hel308 (EC 3.6.4.12)
+NCAV_0536,rtcB,A0A2K5AQ49,RNA-splicing ligase RtcB (EC 6.5.1.-)
+NCAV_0973,NCAV_0973,A0A2K5AR70,Uncharacterized protein
+NCAV_0657,NCAV_0657,A0A2K5AQC9,DNA-binding protein
+NCAV_0491,NCAV_0491,A0A2K5APX5,Uncharacterized protein
+NCAV_0444,NCAV_0444,A0A2K5APQ1,Uncharacterized protein
+NCAV_0301,NCAV_0301,A0A2K5APD3,Uncharacterized protein
+NCAV_1289,NCAV_1289,A0A2K5AS30,Uncharacterized protein
+NCAV_0459,NCAV_0459,A0A2K5APT0,Uncharacterized protein
+NCAV_1188,NCAV_1188,A0A2K5ARV1,Uncharacterized protein
+NCAV_1703,NCAV_1703,A0A2K5AT90,Uncharacterized protein
+NCAV_0690,NCAV_0690,A0A2K5AQE0,Uncharacterized protein
+NCAV_0745,NCAV_0745,A0A2K5AQI7,tRNA_SAD domain-containing protein
+NCAV_0251,NCAV_0251,A0A2K5AP71,Uncharacterized protein
+NCAV_1167,NCAV_1167,A0A2K5ARV7,Histidine triad protein
+NCAV_1397,mut,A0A2K5ASE4,"Methylmalonyl-CoA mutase, large subunit (EC 5.4.99.2)"
+NCAV_0374,NCAV_0374,A0A2K5API5,Uncharacterized protein
+NCAV_0999,ureC,A0A2K5ARA2,Urea amidohydrolase (EC 3.5.1.5) (Urease)
+NCAV_0003,NCAV_0003,A0A2K5ANH9,Uncharacterized protein
+NCAV_0701,NCAV_0701,A0A2K5AQF1,Uncharacterized protein
+NCAV_0664,NCAV_0664,A0A2K5AQG3,Short-chain specific acyl-CoA dehydrogenase
+NCAV_1784,NCAV_1784,A0A2K5ATI2,Uncharacterized protein
+NCAV_0625,NCAV_0625,A0A2K5AQB6,Uncharacterized protein
+NCAV_1725,NCAV_1725,A0A2K5ATB1,VOC domain-containing protein
+NCAV_0587,NCAV_0587,A0A2K5AQ65,"Putative Glycoside hydrolase, family 5"
+NCAV_1769,NCAV_1769,A0A2K5ATG2,Uncharacterized protein
+NCAV_0604,NCAV_0604,A0A2K5AQA3,Transposase
+NCAV_1241,NCAV_1241,A0A2K5ARX5,Uncharacterized protein
+NCAV_0609,NCAV_0609,A0A2K5AQ82,Uncharacterized protein
+NCAV_0597,NCAV_0597,A0A2K5AQ79,Polysacc_synt_C domain-containing protein
+NCAV_0563,glmM,A0A2K5AQ27,Phosphoglucosamine mutase (EC 5.4.2.-)
+NCAV_1189,dys,A0A2K5ART4,Putative deoxyhypusine synthase (EC 2.5.1.46)
+NCAV_0787,NCAV_0787,A0A2K5AQN2,Putative Holliday junction resolvase
+NCAV_0157,NCAV_0157,A0A2K5ANZ9,Putative dihydropteroate synthase
+NCAV_0831,rpl4p,A0A2K5AQY1,50S ribosomal protein L4
+NCAV_1796,NCAV_1796,A0A2K5ATK9,Uncharacterized protein
+NCAV_0132,nac,A0A2K5ANW6,Nascent polypeptide-associated complex protein
+NCAV_1349,NCAV_1349,A0A2K5ASA1,Uncharacterized protein
+NCAV_1754,NCAV_1754,A0A2K5ATF3,Uncharacterized protein
+NCAV_0724,NCAV_0724,A0A2K5AQK6,"Manganese/Zinc/Iron Chelate Uptake Transporter (MZT) Family, ATPase"
+NCAV_1690,tyrS,A0A2K5AT85,Tyrosine--tRNA ligase (EC 6.1.1.1)
+NCAV_0566,apt,A0A2K5AQ78,Adenine phosphoribosyltransferase (APRT) (EC 2.4.2.7)
+NCAV_0938,NCAV_0938,A0A2K5AR53,LAM_G_DOMAIN domain-containing protein
+NCAV_0419,hom,A0A2K5APP5,Homoserine dehydrogenase (HDH) (EC 1.1.1.3)
+NCAV_0141,ctaB2,A0A2K5ANX2,Protoheme IX farnesyltransferase (EC 2.5.1.141) (Heme B farnesyltransferase) (Heme O synthase)
+NCAV_0513,phbC,A0A2K5APY0,Poly(R)-hydroxyalkanoic acid synthase (EC 2.3.1.-)
+NCAV_1350,NCAV_1350,A0A2K5AS88,Putative ATPase-binding protein
+NCAV_1793,glyA,A0A2K5ATH6,Serine hydroxymethyltransferase (SHMT) (Serine methylase) (EC 2.1.2.-)
+NCAV_0004,NCAV_0004,A0A2K5ANJ1,Putative cobalt-precorrin-7 C(5)-methyltransferase (EC 2.1.1.289)
+NCAV_0950,NCAV_0950,A0A2K5AR76,Phosphoglucomutase/phosphomannomutase subunit alpha/beta
+NCAV_0962,gltA,A0A2K5ARB3,Citrate synthase (EC 2.3.3.16)
+NCAV_0741,sucC,A0A2K5AQJ1,Succinyl-CoA ligase (ADP-forming) beta subunit (EC 6.2.1.5)
+NCAV_1742,NCAV_1742,A0A2K5ATE3,Uncharacterized protein
+NCAV_1502,NCAV_1502,A0A2K5ASP6,Uncharacterized protein
+NCAV_1462,pheT,A0A2K5ASJ9,Phenylalanyl-tRNA synthetase beta subunit (EC 6.1.1.20)
+NCAV_0621,NCAV_0621,A0A2K5AQ93,Uncharacterized protein
+NCAV_1452,valS,A0A2K5ASI6,Valyl-tRNA synthetase (EC 6.1.1.9)
+NCAV_1084,NCAV_1084,A0A2K5ARI3,Putative short chain dehydrogenase
+NCAV_1146,NCAV_1146,A0A2K5ARP1,Inosine monophosphate dehydrogenase
+NCAV_1594,NCAV_1594,A0A2K5ASY1,Metallophos domain-containing protein
+NCAV_0511,uppS,A0A2K5APZ6,"Tritrans,polycis-undecaprenyl-diphosphate synthase (geranylgeranyl-diphosphate specific) (EC 2.5.1.89) (Undecaprenyl diphosphate synthase) (UDS) (Undecaprenyl pyrophosphate synthase) (UPP synthase)"
+NCAV_1538,NCAV_1538,A0A2K5AST3,Uncharacterized protein
+NCAV_1609,NCAV_1609,A0A2K5AT01,Peroxiredoxin
+NCAV_0209,sufC,A0A2K5AP73,"Component of SufBCD complex, ATP-binding component of ABC superfamily"
+NCAV_0549,hypF,A0A2K5AQ25,Carbamoyltransferase (EC 6.2.-.-)
+NCAV_0941,NCAV_0941,A0A2K5AR44,Uncharacterized protein
+NCAV_0929,NCAV_0929,A0A2K5AR29,Putative Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+NCAV_0594,NCAV_0594,A0A2K5AQ96,Putative Type I phosphodiesterase/nucleotide pyrophosphatase
+NCAV_0248,NCAV_0248,A0A2K5AP80,Tetrahydromethanopterin S-methyltransferase subunit A
+NCAV_0875,NCAV_0875,A0A2K5AQW7,Uncharacterized protein
+NCAV_1106,NCAV_1106,A0A2K5ARK7,Uncharacterized protein
+NCAV_1102,NCAV_1102,A0A2K5ARP8,Uncharacterized protein
+NCAV_0354,xpf,A0A2K5APG9,Putative DNA repair nuclease XPF
+NCAV_0138,NCAV_0138,A0A2K5ANX1,Uncharacterized protein
+NCAV_0730,NCAV_0730,A0A2K5AQI2,"Putative pre-mRNA processing ribonucleoprotein, snoRNA-binding domain protein"
+NCAV_0448,NCAV_0448,A0A2K5APS2,Pyr_redox_2 domain-containing protein
+NCAV_1229,NCAV_1229,A0A2K5ARX2,Putative ABC transporter permease
+NCAV_1682,NCAV_1682,A0A2K5AT86,Dual specificity protein phosphatase
+NCAV_0168,NCAV_0168,A0A2K5ANZ8,Uncharacterized protein
+NCAV_0608,NCAV_0608,A0A2K5AQ71,Uncharacterized protein
+NCAV_0796,rpoP,A0A2K5AQT4,"DNA-directed RNA polymerase, subunit P"
+NCAV_0038,NCAV_0038,A0A2K5ANL4,NT5C domain containing protein
+NCAV_0192,NCAV_0192,A0A2K5AP24,Transposase
+NCAV_0368,NCAV_0368,A0A2K5APJ2,Putative Helix-turn-helix domain
+NCAV_0685,NCAV_0685,A0A2K5AQD8,L-fuculose phosphate aldolase (EC 4.1.2.17) (L-fuculose-1-phosphate aldolase)
+NCAV_0195,NCAV_0195,A0A2K5AP29,Putative blue (Type 1) copper domain protein
+NCAV_1247,cimA,A0A2K5AS34,(R)-citramalate synthase (EC 2.3.1.182)
+NCAV_0612,NCAV_0612,A0A2K5AQA5,Putative Sigma 54 interacting domain protein
+NCAV_1408,lysK,A0A2K5ASJ7,Putative [LysW]-lysine/[LysW]-ornithine hydrolase (EC 3.5.1.130) (EC 3.5.1.132)
+NCAV_1617,NCAV_1617,A0A2K5AT06,Uncharacterized protein
+NCAV_1772,NCAV_1772,A0A2K5ATH0,Uncharacterized protein
+NCAV_1603,rfcL,A0A2K5ASY7,Replication factor C large subunit
+NCAV_0904,NCAV_0904,A0A2K5AQZ8,Uncharacterized protein
+NCAV_0129,hflX,A0A2K5ANZ6,GTPase HflX (GTP-binding protein HflX)
+NCAV_0529,NCAV_0529,A0A2K5AQ00,Uncharacterized protein
+NCAV_1388,thiD,A0A2K5ASH7,Putative phosphomethylpyrimidine kinase (EC 2.7.1.49) (EC 2.7.4.7)
+NCAV_0996,ureE,A0A2K5AR98,Putative urease accessory protein UreE
+NCAV_1400,NCAV_1400,A0A2K5ASD8,ZnF_CDGSH domain-containing protein
+NCAV_1364,cheR,A0A2K5ASA4,Protein-glutamate O-methyltransferase (EC 2.1.1.80)
+NCAV_1451,adh,A0A2K5ASK9,Putative alcohol dehydrogenase protein (EC 1.1.1.1)
+NCAV_1336,NCAV_1336,A0A2K5AS89,Uncharacterized protein
+NCAV_0542,NCAV_0542,A0A2K5AQ35,Putative Hydrogenase 2 maturation protease
+NCAV_0053,citE,A0A2K5ANN9,Putative citrate/ citryl-CoA lyase (EC 4.1.3.34) (EC 4.1.3.6)
+NCAV_1283,NCAV_1283,A0A2K5AS31,ABC transporter permease protein
+NCAV_0394,trxB,A0A2K5APK5,"Thioredoxin reductase, FAD/NAD(P)-binding (EC 1.8.1.9)"
+NCAV_0893,NCAV_0893,A0A2K5AQZ6,Uncharacterized protein
+NCAV_0465,ubiE1,A0A2K5APX6,Putative menaquinone biosynthesis methyltransferase UbiE (EC 2.1.1.-)
+NCAV_1449,pdxT,A0A2K5ASK0,Pyridoxal 5'-phosphate synthase subunit PdxT (EC 4.3.3.6) (Pdx2) (Pyridoxal 5'-phosphate synthase glutaminase subunit) (EC 3.5.1.2)
+NCAV_1778,NCAV_1778,A0A2K5ATJ2,Uncharacterized protein
+NCAV_0236,rpl18p,A0A2K5AP65,50S ribosomal protein L18
+NCAV_1204,NCAV_1204,A0A2K5ARU3,Putative archaeosortase/exosortase family protein
+NCAV_1610,iscS,A0A2K5ASZ9,Cysteine desulfurase (EC 2.8.1.7)
+NCAV_0012,NCAV_0012,A0A2K5ANK8,Uncharacterized protein
+NCAV_0457,NCAV_0457,A0A2K5APS7,DNA helicase (EC 3.6.4.12)
+NCAV_0417,psmB1,A0A2K5APN4,Proteasome subunit beta (EC 3.4.25.1) (20S proteasome beta subunit) (Proteasome core protein PsmB)
+NCAV_0782,proS,A0A2K5AQN8,Proline--tRNA ligase (EC 6.1.1.15) (Prolyl-tRNA synthetase) (ProRS)
+NCAV_0780,PSPH,A0A2K5AQN5,O-phosphoserine phosphohydrolase (EC 3.1.3.3)
+NCAV_1674,NCAV_1674,A0A2K5AT75,Uncharacterized protein
+NCAV_0162,NCAV_0162,A0A2K5AP00,Prephenate dehydratase (EC 4.2.1.51)
+NCAV_1394,NCAV_1394,A0A2K5ASD7,Uncharacterized protein
+NCAV_1524,NCAV_1524,A0A2K5ASU0,Uncharacterized protein
+NCAV_1652,NCAV_1652,A0A2K5AT49,Putative RPA-like protein
+NCAV_1341,NCAV_1341,A0A2K5AS93,Putative prepilin peptidase
+NCAV_0864,NCAV_0864,A0A2K5AQX2,Uncharacterized protein
+NCAV_0342,cofE,A0A2K5APH0,F420-0:gamma-L-glutamate ligase (EC 6.3.2.-)
+NCAV_1805,NCAV_1805,A0A2K5ATI5,Putative DHHA1 domain protein
+NCAV_1568,NCAV_1568,A0A2K5ASW2,Putative TfuA domain-containing protein
+NCAV_0705,NCAV_0705,A0A2K5AQF4,Uncharacterized protein
+NCAV_1788,NCAV_1788,A0A2K5ATJ9,Uncharacterized protein
+NCAV_0541,NCAV_0541,A0A2K5AQ28,Putative Hydrogenase nickel incorporation protein HypA
+NCAV_1233,leuB,A0A2K5ARY3,3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+NCAV_0613,NCAV_0613,A0A2K5AQ76,Uncharacterized protein
+NCAV_0779,cofE,A0A2K5AQP0,Coenzyme F420:L-glutamate ligase (EC 6.3.2.31) (EC 6.3.2.34)
+NCAV_0975,NCAV_0975,A0A2K5AR75,Uncharacterized protein
+NCAV_1002,NCAV_1002,A0A2K5ARF2,Putative urea transporter
+NCAV_0278,NCAV_0278,A0A2K5APB3,Uncharacterized protein
+NCAV_0108,cobI,A0A2K5ANU0,Precorrin-2 C20-methyltransferase (EC 2.1.1.130) (EC 2.1.1.151)
+NCAV_0620,NCAV_0620,A0A2K5AQ80,Meth_synt_1 domain-containing protein
+NCAV_0622,metE,A0A2K5AQ83,Methionine synthase (EC 2.1.1.-)
+NCAV_0464,NCAV_0464,A0A2K5APR9,DNA helicase (EC 3.6.4.12)
+NCAV_1202,NCAV_1202,A0A2K5ARX7,Uncharacterized protein
+NCAV_0484,NCAV_0484,A0A2K5APZ1,"Phosphoesterase DHHA1, RecJ-like"
+NCAV_1704,nrgA,A0A2K5ATA7,Ammonium transporter
+NCAV_0395,NCAV_0395,A0A2K5APQ2,Uncharacterized protein
+NCAV_1010,NCAV_1010,A0A2K5ARD2,Uncharacterized protein
+NCAV_0922,NCAV_0922,A0A2K5AR79,Putative DNA-directed RNA polymerase subunit delta
+NCAV_1295,mngA,A0A2K5AS45,Mannosyl-3-phosphoglycerate synthase (EC 2.4.1.217)
+NCAV_1168,prf,A0A2K5ART3,Peptide chain release factor subunit 1 (Translation termination factor aRF1)
+NCAV_0478,NCAV_0478,A0A2K5APU7,MTS domain-containing protein
+NCAV_0222,NCAV_0222,A0A2K5AP57,Uroporphyrinogen-III C-methyltransferase
+NCAV_0104,NCAV_0104,A0A2K5ANT8,Mut7-C domain-containing protein
+NCAV_1195,NCAV_1195,A0A2K5ART6,Uncharacterized protein
+NCAV_0887,NCAV_0887,A0A2K5AR34,Putative XPB associated nuclease Bax1
+NCAV_0485,rps15p,A0A2K5APT9,30S ribosomal protein S15
+NCAV_0233,NCAV_0233,A0A2K5AP64,Putative 3-isopropylmalate dehydratase
+NCAV_1268,htpX,A0A2K5AS29,Protease HtpX homolog (EC 3.4.24.-)
+NCAV_1676,nep,A0A2K5AT89,Ribosomal RNA small subunit methyltransferase Nep1 (EC 2.1.1.-) (16S rRNA (pseudouridine-N1-)-methyltransferase Nep1)
+NCAV_1466,coaD,A0A2K5ASL1,Phosphopantetheine adenylyltransferase (EC 2.7.7.3) (Dephospho-CoA pyrophosphorylase) (Pantetheine-phosphate adenylyltransferase) (PPAT)
+NCAV_1333,NCAV_1333,A0A2K5ASA5,Mrr_cat domain-containing protein
+NCAV_0420,NCAV_0420,A0A2K5APQ6,Probable membrane transporter protein
+NCAV_0986,dnaG,A0A2K5AR87,DNA primase DnaG (EC 2.7.7.101)
+NCAV_0700,NCAV_0700,A0A2K5AQF0,Uncharacterized protein
+NCAV_1506,NCAV_1506,A0A2K5ASQ2,TRASH domain-containing protein
+NCAV_0152,NCAV_0152,A0A2K5ANZ0,PfkB family carbohydrate kinase (EC 2.7.1.-)
+NCAV_1401,rpl31e,A0A2K5ASF2,50S ribosomal protein L31e
+NCAV_1436,NCAV_1436,A0A2K5ASI3,Uncharacterized protein
+NCAV_0111,NCAV_0111,A0A2K5ANT7,Putative Glutamate racemase (EC 5.1.1.3)
+NCAV_1751,NCAV_1751,A0A2K5ATI0,Uncharacterized protein
+NCAV_0954,NCAV_0954,A0A2K5AR48,Sodium/hydrogen exchanger
+NCAV_1178,NCAV_1178,A0A2K5ARU2,2-hydroxyacid dehydrogenase (EC 1.1.1.95)
+NCAV_0292,NCAV_0292,A0A2K5APB7,"Peptidase S26B, signal peptidase"
+NCAV_1069,NCAV_1069,A0A2K5ARH1,Uncharacterized protein
+NCAV_1200,NCAV_1200,A0A2K5ARV6,Uncharacterized protein
+NCAV_0275,NCAV_0275,A0A2K5APA8,Uncharacterized protein
+NCAV_0341,NCAV_0341,A0A2K5APH5,Uncharacterized protein
+NCAV_0243,NCAV_0243,A0A2K5AP76,Putative membrane protein
+NCAV_1475,cdvC,A0A2K5ASM3,Cell division protein C
+NCAV_0910,NCAV_0910,A0A2K5AR32,Putative integrin-like protein
+NCAV_0708,NCAV_0708,A0A2K5AQL0,Uncharacterized protein
+NCAV_0952,NCAV_0952,A0A2K5ARA3,Transposase
+NCAV_1207,NCAV_1207,A0A2K5ARZ5,"ABC-type nitrate/sulfonate/bicarbonate transport system, periplasmic component"
+NCAV_1522,NCAV_1522,A0A2K5ASR8,Putative rieske (2Fe-2S) domain protein
+NCAV_1767,NCAV_1767,A0A2K5ATF7,Uncharacterized protein
+NCAV_1330,NCAV_1330,A0A2K5AS66,Putative pseudouridylate synthase-like protein
+NCAV_1601,NCAV_1601,A0A2K5AT34,"Haloacid dehalogenase superfamily enzyme, subfamily IA"
+NCAV_0118,nfo,A0A2K5ANU6,Probable endonuclease 4 (EC 3.1.21.2) (Endodeoxyribonuclease IV) (Endonuclease IV)
+NCAV_0694,NCAV_0694,A0A2K5AQH4,Uncharacterized protein
+NCAV_0174,NCAV_0174,A0A2K5AP07,4-methyl-5(B-hydroxyethyl)-thiazole monophosphate biosynthesis protein
+NCAV_1542,rpl1p,A0A2K5ASV9,50S ribosomal protein L1
+NCAV_0530,NCAV_0530,A0A2K5APZ7,Uncharacterized protein
+NCAV_1608,accA,A0A2K5AT10,Biotin carboxyl carrier protein of putative acetyl-CoA/ propionyl-CoA carboxylase (EC 6.3.4.14)
+NCAV_0936,NCAV_0936,A0A2K5AR38,Putative Fe-S oxidoreductase
+NCAV_0508,ubiE2,A0A2K5APX3,Putative ubiquinone/menaquinone biosynthesis methyltransferase UbiE
+NCAV_0404,ppa,A0A2K5APL6,Inorganic pyrophosphatase (EC 3.6.1.1) (Pyrophosphate phospho-hydrolase) (PPase)
+NCAV_0216,NCAV_0216,A0A2K5AP48,Siroheme decarboxylase (EC 4.1.1.111)
+NCAV_1142,NCAV_1142,A0A2K5ARQ8,Uncharacterized protein
+NCAV_1044,NCAV_1044,A0A2K5ARE0,Uncharacterized protein
+NCAV_0822,rpl14p,A0A2K5AQT0,50S ribosomal protein L14
+NCAV_0948,NCAV_0948,A0A2K5AR69,OBG-type G domain-containing protein
+NCAV_1611,NCAV_1611,A0A2K5AT43,Uncharacterized protein
+NCAV_1472,thiC,A0A2K5ASL7,Phosphomethylpyrimidine synthase (EC 4.1.99.17)
+NCAV_1164,NCAV_1164,A0A2K5ARP7,Uncharacterized protein
+NCAV_1803,NCAV_1803,A0A2K5ATI7,Uncharacterized protein
+NCAV_0096,NCAV_0096,A0A2K5ANS5,Uncharacterized protein
+NCAV_1517,NCAV_1517,A0A2K5ASR3,Isopentenyl phosphate kinase (EC 2.7.4.26)
+NCAV_1743,amt,A0A2K5ATC9,Ammonium transporter
+NCAV_1062,NCAV_1062,A0A2K5ARL1,Uncharacterized protein
+NCAV_1130,NCAV_1130,A0A2K5ARN2,Uncharacterized protein
+NCAV_0109,cbiF,A0A2K5ANX4,Cobalt-precorrin-4 C(11)-methyltransferase (EC 2.1.1.271)
+NCAV_0524,sdhD,A0A2K5AQ29,Putative succinate dehydrogenase/fumarate reductase (EC 1.-.-.-)
+NCAV_0598,NCAV_0598,A0A2K5AQ61,Putative Glycerol-1-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.261)
+NCAV_0021,NCAV_0021,A0A2K5ANK1,Pantoate kinase (PoK) (EC 2.7.1.169)
+NCAV_0023,panB,A0A2K5ANK7,3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11) (Ketopantoate hydroxymethyltransferase) (KPHMT)
+NCAV_0833,NCAV_0833,A0A2K5AQU3,Copper-bind domain-containing protein
+NCAV_1339,NCAV_1339,A0A2K5AS91,Uncharacterized protein
+NCAV_0498,NCAV_0498,A0A2K5APW6,Putative Cation:Proton Antiporter-2 (CPA2) Family protein
+NCAV_0083,NCAV_0083,A0A2K5ANR9,Putative rieske (2Fe-2S) domain protein
+NCAV_1322,NCAV_1322,A0A2K5AS62,Uncharacterized protein
+NCAV_0966,NCAV_0966,A0A2K5AR62,Uncharacterized ATP-dependent helicase MTH_1802 (EC 3.6.4.-)
+NCAV_0953,NCAV_0953,A0A2K5AR51,MFS transporter
+NCAV_0217,NCAV_0217,A0A2K5AP44,Precorrin-2 dehydrogenase (EC 1.3.1.76)
+NCAV_0823,rps,A0A2K5AQT2,30S ribosomal protein S17
+NCAV_0585,NCAV_0585,A0A2K5AQ41,Uncharacterized protein
+NCAV_0076,NCAV_0076,A0A2K5ANQ5,HTH_45 domain-containing protein
+NCAV_1399,NCAV_1399,A0A2K5ASF1,Putative metallophosphoesterase
+NCAV_1007,NCAV_1007,A0A2K5ARG0,Uncharacterized protein
+NCAV_0253,NCAV_0253,A0A2K5AP90,Uncharacterized protein
+NCAV_0263,NCAV_0263,A0A2K5APA4,Uncharacterized protein
+NCAV_1726,NCAV_1726,A0A2K5ATD7,Uncharacterized protein
+NCAV_0048,NCAV_0048,A0A2K5ANM2,Cytosine deaminase-like metal-dependent hydrolase
+NCAV_0175,cysO,A0A2K5AP10,Sulfur carrier protein CysO
+NCAV_0829,rps19p,A0A2K5AQW3,30S ribosomal protein S19P
+NCAV_0447,NCAV_0447,A0A2K5APR4,Uncharacterized protein
+NCAV_1048,NCAV_1048,A0A2K5ARH4,Uncharacterized protein
+NCAV_0069,NCAV_0069,A0A2K5ANT5,ATPase
+NCAV_0455,NCAV_0455,A0A2K5APW3,ParB domain-containing protein
+NCAV_1455,NCAV_1455,A0A2K5ASK7,Uncharacterized protein
+NCAV_1032,NCAV_1032,A0A2K5ARI1,Uncharacterized protein
+NCAV_1732,NCAV_1732,A0A2K5ATD3,Putative RNA methyltransferase
+NCAV_0406,NCAV_0406,A0A2K5APN5,Uncharacterized protein
+NCAV_1761,NCAV_1761,A0A2K5ATI8,Nicotinamide-nucleotide adenylyltransferase (EC 2.7.7.1) (NAD(+) diphosphorylase) (NAD(+) pyrophosphorylase) (NMN adenylyltransferase)
+NCAV_1224,NCAV_1224,A0A2K5ARW8,Uncharacterized protein
+NCAV_1592,NCAV_1592,A0A2K5AT04,Putative D-amino acid dehydrogenase
+NCAV_0099,NCAV_0099,A0A2K5ANW5,Uncharacterized protein
+NCAV_1721,NCAV_1721,A0A2K5ATF0,Uncharacterized protein
+NCAV_1779,cas1,A0A2K5ATG7,CRISPR-associated endonuclease Cas1 (EC 3.1.-.-)
+NCAV_0699,NCAV_0699,A0A2K5AQG5,Uncharacterized protein
+NCAV_0364,rpl18e,A0A2K5APH6,50S ribosomal protein L18e
+NCAV_1273,NCAV_1273,A0A2K5AS21,5-formyltetrahydrofolate cyclo-ligase
+NCAV_0644,NCAV_0644,A0A2K5AQ92,Rieske domain-containing protein
+NCAV_0409,NCAV_0409,A0A2K5APN7,Pribosyltran domain-containing protein
+NCAV_1396,NCAV_1396,A0A2K5ASE3,Putative enzyme (EC 3.6.-.-)
+NCAV_1176,NCAV_1176,A0A2K5ARR5,Uncharacterized protein
+NCAV_1331,srp,A0A2K5AS84,Signal recognition particle 54 kDa protein (SRP54)
+NCAV_0819,rpl5p,A0A2K5AQV4,50S ribosomal protein L5
+NCAV_0330,rps12p,A0A2K5APF9,30S ribosomal protein S12
+NCAV_1373,NCAV_1373,A0A2K5ASF0,Uncharacterized protein
+NCAV_1009,NCAV_1009,A0A2K5ARB4,Uncharacterized protein
+NCAV_0019,NCAV_0019,A0A2K5ANP0,Putative membrane alanyl aminopeptidase (EC 3.4.11.2)
+NCAV_0807,NCAV_0807,A0A2K5AQQ5,Uncharacterized protein
+NCAV_1165,cofC,A0A2K5ARQ1,2-phospho-L-lactate guanylyltransferase (LP guanylyltransferase) (EC 2.7.7.68)
+NCAV_0978,NCAV_0978,A0A2K5AR99,Uncharacterized protein
+NCAV_0475,NCAV_0475,A0A2K5APS8,Uncharacterized protein
+NCAV_0347,NCAV_0347,A0A2K5APG3,Glycosyl transferase
+NCAV_0219,hemB,A0A2K5AP66,Delta-aminolevulinic acid dehydratase (EC 4.2.1.24)
+NCAV_1746,NCAV_1746,A0A2K5ATG3,Uncharacterized protein
+NCAV_0943,NCAV_0943,A0A2K5AR43,Uncharacterized protein
+NCAV_1123,NCAV_1123,A0A2K5ARL9,Uncharacterized protein
+NCAV_1370,NCAV_1370,A0A2K5ASB1,Uncharacterized protein
+NCAV_0349,NCAV_0349,A0A2K5APH8,Uncharacterized protein
+NCAV_1103,NCAV_1103,A0A2K5ARJ9,Putative NurA nuclease
+NCAV_1061,NCAV_1061,A0A2K5ARH2,Uncharacterized protein
+NCAV_1572,NCAV_1572,A0A2K5ASY6,Uncharacterized protein
+NCAV_0747,NCAV_0747,A0A2K5AQI6,Uncharacterized protein
+NCAV_0879,cofG,A0A2K5AQX3,"7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase (EC 4.3.1.32)"
+NCAV_0013,NCAV_0013,A0A2K5ANJ6,Uncharacterized protein
+NCAV_0493,NCAV_0493,A0A2K5APW7,Uncharacterized protein
+NCAV_0976,NCAV_0976,A0A2K5AR74,Uncharacterized protein
+NCAV_0846,NCAV_0846,A0A2K5AQZ3,Blue (Type 1) copper domain protein
+NCAV_1357,cheY,A0A2K5ASA2,Chemotaxis protein CheY
+NCAV_1505,NCAV_1505,A0A2K5ASQ8,Dienelactone hydrolase
+NCAV_1047,tfb,A0A2K5ARK2,Transcription initiation factor IIB
+NCAV_0125,NCAV_0125,A0A2K5ANW0,Uncharacterized protein
+NCAV_1548,NCAV_1548,A0A2K5ASU3,Uncharacterized protein
+NCAV_1798,NCAV_1798,A0A2K5ATK5,Uncharacterized protein
+NCAV_0517,NCAV_0517,A0A2K5APY9,Alkyl hydroperoxide reductase
+NCAV_0042,dnaJ,A0A2K5ANN5,Chaperone protein DnaJ
+NCAV_0169,NCAV_0169,A0A2K5AP33,Quinoprotein glucose dehydrogenase (EC 1.1.5.2)
+NCAV_1708,NCAV_1708,A0A2K5ATB5,Phosphate transport system permease protein
+NCAV_0678,NCAV_0678,A0A2K5AQI3,Putative Hydrogenase assembly chaperone HypC/HupF
+NCAV_0030,psmB2,A0A2K5ANL0,Proteasome subunit beta (EC 3.4.25.1) (20S proteasome beta subunit) (Proteasome core protein PsmB)
+NCAV_1306,NCAV_1306,A0A2K5AS56,Deoxyhypusine synthase
+NCAV_1450,NCAV_1450,A0A2K5ASI8,Uncharacterized protein
+NCAV_0593,NCAV_0593,A0A2K5AQ58,Uncharacterized protein
+NCAV_1000,ureB,A0A2K5ARC5,Urease subunit beta (EC 3.5.1.5)
+NCAV_0237,rps5p,A0A2K5AP69,30S ribosomal protein S5p
+NCAV_1041,NCAV_1041,A0A2K5ARF0,Uncharacterized protein
+NCAV_1256,NCAV_1256,A0A2K5AS01,TPR_REGION domain-containing protein
+NCAV_0100,asnS,A0A2K5ANS9,Asparagine--tRNA ligase (EC 6.1.1.22)
+NCAV_1089,NCAV_1089,A0A2K5ARJ2,Uncharacterized protein
+NCAV_1071,NCAV_1071,A0A2K5ARI0,Uncharacterized protein
+NCAV_1701,NCAV_1701,A0A2K5ATD0,Nitrogen regulatory protein P-II
+NCAV_1197,NCAV_1197,A0A2K5ARY5,"Transcriptional regulator, ArsR family"
+NCAV_0698,NCAV_0698,A0A2K5AQK3,Uncharacterized protein
+NCAV_0765,trpE,A0A2K5AQK7,Anthranilate synthase (EC 4.1.3.27)
+NCAV_1602,NCAV_1602,A0A2K5AT03,Uncharacterized protein
+NCAV_1527,gabD,A0A2K5ASS5,Succinate-semialdehyde dehydrogenase (EC 1.2.1.16)
+NCAV_0382,aspC,A0A2K5APL2,Aminotransferase (EC 2.6.1.-)
+NCAV_0582,NCAV_0582,A0A2K5AQ74,Uncharacterized protein
+NCAV_1659,NCAV_1659,A0A2K5AT51,"Putative cation transporter, DASS family"
+NCAV_0662,acdA,A0A2K5AQE5,Short-chain specific acyl-CoA dehydrogenase (EC 1.3.8.-)
+NCAV_0059,NCAV_0059,A0A2K5ANT2,Uncharacterized protein
+NCAV_0790,NCAV_0790,A0A2K5AQP5,"ABC uptake transporter, periplasmic binding"
+NCAV_0795,rps10p,A0A2K5AQP7,30S ribosomal protein S10
+NCAV_1110,lsrF,A0A2K5ARM5,Uncharacterized aldolase LsrF (EC 4.1.2.-)
+NCAV_1409,lysX,A0A2K5ASG1,Alpha-aminoadipate lysW ligase LysX (EC 6.3.2.-)
+NCAV_1774,NCAV_1774,A0A2K5ATH3,Uncharacterized protein
+NCAV_1320,NCAV_1320,A0A2K5AS57,Small-conductance mechanosensitive ion channel MscS
+NCAV_0992,NCAV_0992,A0A2K5ARE4,Uncharacterized protein
+NCAV_1695,NCAV_1695,A0A2K5AT83,Uncharacterized protein
+NCAV_0849,hppA,A0A2K5AQX4,K(+)-insensitive pyrophosphate-energized proton pump (EC 7.1.3.1) (Membrane-bound proton-translocating pyrophosphatase) (Pyrophosphate-energized inorganic pyrophosphatase) (H(+)-PPase)
+NCAV_1274,NCAV_1274,A0A2K5AS15,TFIIE_alpha domain-containing protein
+NCAV_0738,NCAV_0738,A0A2K5AQP3,Uncharacterized protein
+NCAV_1791,NCAV_1791,A0A2K5ATL3,"Putative DNA replication initiation complex subunit, GINS15 family protein"
+NCAV_0838,NCAV_0838,A0A2K5AQT6,Uncharacterized protein
+NCAV_1219,rps27ae,A0A2K5ARW0,30S ribosomal protein S27ae
+NCAV_0261,NCAV_0261,A0A2K5AP79,Uncharacterized protein
+NCAV_0728,NCAV_0728,A0A2K5AQN4,Dihydroorotate dehydrogenase electron transfer subunit
+NCAV_0610,NCAV_0610,A0A2K5AQ73,Uncharacterized protein
+NCAV_0238,rpl30p,A0A2K5AP72,50S ribosomal protein L30p
+NCAV_0660,NCAV_0660,A0A2K5AQB8,"Putative Indolepyruvate ferredoxin oxidoreductase,gamma subunit (EC 1.2.7.8)"
+NCAV_1525,NCAV_1525,A0A2K5ASR7,DUF5679 domain-containing protein
+NCAV_1589,fno,A0A2K5AT23,F420-dependent NADP reductase (EC 1.5.1.40)
+NCAV_0060,NCAV_0060,A0A2K5ANP4,Uncharacterized protein
+NCAV_1698,NCAV_1698,A0A2K5ATA5,Uncharacterized protein
+NCAV_0675,NCAV_0675,A0A2K5AQC7,Uncharacterized protein
+NCAV_1510,NCAV_1510,A0A2K5ASQ1,"Putative 1H-3-hydroxy-4-oxoquinaldine 2,4-dioxygenase"
+NCAV_1091,NCAV_1091,A0A2K5ARJ6,Uncharacterized protein
+NCAV_0355,NCAV_0355,A0A2K5APL3,DHH domain-containing protein
+NCAV_1082,NCAV_1082,A0A2K5ARM8,Putative glycosyltransferase family 2
+NCAV_0866,ilvE,A0A2K5AQW5,Branched-chain-amino-acid aminotransferase (BCAT) (EC 2.6.1.42)
+NCAV_0366,rps9p,A0A2K5APJ9,30S ribosomal protein S9
+NCAV_0731,flpA,A0A2K5AQI0,Fibrillarin-like rRNA/tRNA 2'-O-methyltransferase (EC 2.1.1.-)
+NCAV_0061,NCAV_0061,A0A2K5ANP2,Uncharacterized protein
+NCAV_0303,NCAV_0303,A0A2K5APF1,DUF4332 domain-containing protein
+NCAV_0072,NCAV_0072,A0A2K5ANQ9,Uncharacterized protein
+NCAV_1764,NCAV_1764,A0A2K5ATF5,Uncharacterized protein
+NCAV_0280,NCAV_0280,A0A2K5APD0,Uncharacterized protein
+NCAV_1790,NCAV_1790,A0A2K5ATJ7,Uncharacterized protein
+NCAV_1718,NCAV_1718,A0A2K5ATC2,Uncharacterized protein
+NCAV_0656,NCAV_0656,A0A2K5AQG4,DUF35_N domain-containing protein
+NCAV_1132,NCAV_1132,A0A2K5ARP9,Acylphosphatase (EC 3.6.1.7)
+NCAV_1186,NCAV_1186,A0A2K5ARS7,Uncharacterized protein
+NCAV_1384,NCAV_1384,A0A2K5ASD0,Uncharacterized protein
+NCAV_1093,mqnE,A0A2K5ARI8,Aminodeoxyfutalosine synthase (EC 2.5.1.120)
+NCAV_1381,NCAV_1381,A0A2K5ASD2,Uncharacterized protein
+NCAV_0232,NCAV_0232,A0A2K5AP68,AsnC_trans_reg domain-containing protein
+NCAV_0165,NCAV_0165,A0A2K5AP01,Uncharacterized protein
+NCAV_1705,NCAV_1705,A0A2K5AT91,Phosphate-specific transport system accessory protein PhoU
+NCAV_1537,radA,A0A2K5AST5,DNA repair and recombination protein RadA
+NCAV_0074,pyrI,A0A2K5ANQ8,Aspartate carbamoyltransferase regulatory chain
+NCAV_1045,NCAV_1045,A0A2K5ARD8,Uncharacterized protein
+NCAV_0338,NCAV_0338,A0A2K5APF8,Putative ferredoxin
+NCAV_0637,NCAV_0637,A0A2K5AQA1,Uncharacterized protein
+NCAV_0949,thiL,A0A2K5AR46,Thiamine-monophosphate kinase (TMP kinase) (Thiamine-phosphate kinase) (EC 2.7.4.16)
+NCAV_1441,lysS,A0A2K5ASJ8,Lysine--tRNA ligase (EC 6.1.1.6) (Lysyl-tRNA synthetase) (LysRS)
+NCAV_0229,pgk,A0A2K5AP82,Phosphoglycerate kinase (EC 2.7.2.3)
+NCAV_1620,NCAV_1620,A0A2K5AT09,DUF59 domain-containing protein
+NCAV_1628,NCAV_1628,A0A2K5AT33,Putative Transcriptional regulator
+NCAV_1212,NCAV_1212,A0A2K5ARY6,Uncharacterized protein
+NCAV_0328,rps3ae,A0A2K5APE8,30S ribosomal protein S3Ae (Ribosomal protein S1e)
+NCAV_0082,trxB,A0A2K5ANS2,Thioredoxin-disulfide reductase (TrxB) (EC 1.8.1.9)
+NCAV_0001,cdc,A0A2K5ANI4,ORC1-type DNA replication protein
+NCAV_1420,bioD,A0A2K5ASF7,ATP-dependent dethiobiotin synthetase BioD (EC 6.3.3.3) (DTB synthetase) (DTBS) (Dethiobiotin synthase)
+NCAV_1666,NCAV_1666,A0A2K5AT77,Transposase
+NCAV_0772,NCAV_0772,A0A2K5AQM9,Uncharacterized protein
+NCAV_1539,rpl12p,A0A2K5ASW9,50S ribosomal protein L12
+NCAV_0757,pyrG,A0A2K5AQJ9,CTP synthase (EC 6.3.4.2) (Cytidine 5'-triphosphate synthase) (Cytidine triphosphate synthetase) (CTP synthetase) (CTPS) (UTP--ammonia ligase)
+NCAV_1369,flaG,A0A2K5ASB9,Putative Archaeal flagellar protein FlaG
+NCAV_0334,NCAV_0334,A0A2K5APE7,Uncharacterized protein
+NCAV_0487,NCAV_0487,A0A2K5APV9,Uncharacterized protein
+NCAV_0185,NCAV_0185,A0A2K5AP15,ATP phosphoribosyltransferase (EC 2.4.2.17)
+NCAV_0313,NCAV_0313,A0A2K5APG2,Putative von Willebrand factor type A
+NCAV_0543,NCAV_0543,A0A2K5AQ10,Putative Nickel-dependent hydrogenase alpha subunit
+NCAV_1120,top6B,A0A2K5ARN6,Type 2 DNA topoisomerase 6 subunit B (EC 5.6.2.2) (Type II DNA topoisomerase VI subunit B) (TopoVI-B)
+NCAV_1122,NCAV_1122,A0A2K5ARS2,Uncharacterized protein
+NCAV_0550,rpl38e,A0A2K5AQ16,50S ribosomal protein L38E
+NCAV_1660,NCAV_1660,A0A2K5AT47,Radical_SAM domain-containing protein
+NCAV_0870,mcm,A0A2K5AQZ5,DNA helicase (EC 3.6.4.12)
+NCAV_0176,thrC,A0A2K5AP08,Threonine synthase (EC 4.2.3.1)
+NCAV_0928,NCAV_0928,A0A2K5AR37,Nudix hydrolase domain-containing protein
+NCAV_0469,NCAV_0469,A0A2K5APU4,Putative thioesterase superfamily protein
+NCAV_0720,NCAV_0720,A0A2K5AQH0,Vacuolar iron transporter family protein
+NCAV_1494,rpoA,A0A2K5ASN3,DNA-directed RNA polymerase subunit A'' (EC 2.7.7.6)
+NCAV_1697,NCAV_1697,A0A2K5AT87,CBS and Zinc Finger C2H2 domain-containing membrane protein
+NCAV_1077,NCAV_1077,A0A2K5ARM9,"Putative Glycerol-3-phosphate dehydrogenase, anaerobic, C subunit"
+NCAV_1358,NCAV_1358,A0A2K5ASE7,Chemotaxis protein CheW (Modular protein)
+NCAV_0576,NCAV_0576,A0A2K5AQ91,Glycosyl transferase family 2 (Modular protein)
+NCAV_0110,NCAV_0110,A0A2K5ANU2,Uncharacterized protein
+NCAV_1134,NCAV_1134,A0A2K5ARS9,Uncharacterized protein
+NCAV_1404,NCAV_1404,A0A2K5ASE6,Nudix hydrolase domain-containing protein
+NCAV_1209,NCAV_1209,A0A2K5ARV2,Putative UDP-glucose 4-epimerase (EC 5.1.3.2)
+NCAV_1508,acoA,A0A2K5AST7,Aconitate hydratase (EC 4.2.1.-) (EC 4.2.1.3)
+NCAV_1632,NCAV_1632,A0A2K5AT28,Uncharacterized protein
+NCAV_0224,sufB,A0A2K5AP58,Component of SufBCD complex
+NCAV_1681,NCAV_1681,A0A2K5ATB2,Putative radical SAM domain protein
+NCAV_1059,NCAV_1059,A0A2K5ARF9,Uncharacterized protein
+NCAV_0748,gatC,A0A2K5AQQ4,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C (Asp/Glu-ADT subunit C) (EC 6.3.5.-)
+NCAV_1700,NCAV_1700,A0A2K5AT93,B3/4 domain protein
+NCAV_0909,NCAV_0909,A0A2K5AR10,Uncharacterized protein
+NCAV_1140,NCAV_1140,A0A2K5ARR4,Transcriptional regulator
+NCAV_1737,NCAV_1737,A0A2K5ATD2,DrsE domain-containing protein
+NCAV_0256,NCAV_0256,A0A2K5AP75,Bifunctional hexulose-6-phosphate synthase/ribonuclease regulator
+NCAV_1458,cbtA,A0A2K5ASP0,"Putative cobalt transporter family protein, subunit CbtA"
+NCAV_1407,NCAV_1407,A0A2K5ASF6,Uncharacterized protein
+NCAV_1116,NCAV_1116,A0A2K5ARL6,Uncharacterized protein
+NCAV_0324,NCAV_0324,A0A2K5APD7,Geranylgeranyl reductase
+NCAV_0482,serS,A0A2K5APW9,Serine--tRNA ligase (EC 6.1.1.11) (Seryl-tRNA synthetase) (SerRS) (Seryl-tRNA(Ser/Sec) synthetase)
+NCAV_0848,NCAV_0848,A0A2K5AQU6,Mov34/MPN/PAD-1 family protein
+NCAV_1498,NCAV_1498,A0A2K5ASS7,Fe-S oxidoreductase
+NCAV_0062,NCAV_0062,A0A2K5ANQ2,Uncharacterized protein
+NCAV_0415,NCAV_0415,A0A2K5APS5,Uncharacterized protein
+NCAV_1760,NCAV_1760,A0A2K5ATG4,Putative enzyme (EC 2.6.1.-)
+NCAV_0196,NCAV_0196,A0A2K5AP27,Putative TldD/pmbA family protein
+NCAV_1227,appF,A0A2K5AS19,Oligopeptide transport ATP-binding protein AppF
+NCAV_0087,NCAV_0087,A0A2K5ANS4,Acetoacetyl-CoA thiolase (EC 2.3.1.16) (EC 2.3.1.9)
+NCAV_1430,alaS,A0A2K5ASG7,Alanine--tRNA ligase (EC 6.1.1.7) (Alanyl-tRNA synthetase) (AlaRS)
+NCAV_1696,NCAV_1696,A0A2K5ATA6,Uncharacterized protein
+NCAV_0029,NCAV_0029,A0A2K5ANQ1,Uncharacterized protein
+NCAV_0032,cutA,A0A2K5ANM7,Divalent-cation tolerance protein CutA
+NCAV_0188,NCAV_0188,A0A2K5AP17,Putative Surface associated S-layer protein
+NCAV_1707,sphX,A0A2K5ATA2,"ABC-type phosphate transport system, periplasmic component"
+NCAV_0816,rpl6p,A0A2K5AQV5,50S ribosomal protein L6
+NCAV_1616,fixC,A0A2K5AT32,Putative electron-transfer flavoprotein /FAD-dependent / fixCX-like protein
+NCAV_1011,NCAV_1011,A0A2K5ARA9,Uncharacterized protein
+NCAV_1689,NCAV_1689,A0A2K5AT78,Aspartokinase (EC 2.7.2.4)
+NCAV_0101,NCAV_0101,A0A2K5ANT1,THUMP domain-containing protein
+NCAV_0090,NCAV_0090,A0A2K5ANR7,SHSP domain-containing protein
+NCAV_1694,NCAV_1694,A0A2K5ATA0,Uncharacterized protein
+NCAV_0344,leuD,A0A2K5APF7,3-isopropylmalate dehydratase small subunit (EC 4.2.1.33) (Alpha-IPM isomerase) (IPMI) (Isopropylmalate isomerase)
+NCAV_0963,NCAV_0963,A0A2K5AR60,NAD-dependent alcohol dehydrogenase (EC 1.1.1.1)
+NCAV_0534,NCAV_0534,A0A2K5AQ37,Uncharacterized protein
+NCAV_0794,tuf,A0A2K5AQS1,Elongation factor 1-alpha (EF-1-alpha) (Elongation factor Tu) (EF-Tu)
+NCAV_1415,NCAV_1415,A0A2K5ASG4,Luciferase family protein
+NCAV_0934,NCAV_0934,A0A2K5AR31,Uncharacterized protein
+NCAV_0054,adh,A0A2K5ANP1,Putative NAD-dependent alcohol dehydrogenase (EC 1.1.1.1)
+NCAV_0390,aroGFH,A0A2K5APL7,"2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase (ADH synthase) (ADHS) (ADTH synthase) (EC 2.2.1.10)"
+NCAV_1245,NCAV_1245,A0A2K5ARZ2,Uncharacterized protein
+NCAV_1562,pfdA,A0A2K5ASX7,Prefoldin subunit alpha (GimC subunit alpha)
+NCAV_0719,NCAV_0719,A0A2K5AQI5,Uncharacterized protein
+NCAV_0889,NCAV_0889,A0A2K5AQY3,Uncharacterized protein
+NCAV_0871,NCAV_0871,A0A2K5AQV9,"Putative DNA replication initiation complex subunit, GINS23 family protein"
+NCAV_1390,NCAV_1390,A0A2K5ASC9,Putative Chromosome partitioning protein ParA
+NCAV_1446,NCAV_1446,A0A2K5ASJ3,C2H2-type domain-containing protein
+NCAV_0267,nuoD,A0A2K5AP99,NADH-quinone oxidoreductase subunit D (EC 1.6.5.11)
+NCAV_0158,NCAV_0158,A0A2K5ANY9,Uncharacterized protein
+NCAV_0763,trpD,A0A2K5AQQ3,Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+NCAV_1516,mvk,A0A2K5ASR2,Mevalonate kinase (EC 2.7.1.36)
+NCAV_0375,ytsJ,A0A2K5APN1,NAD(P)-dependent malic enzyme (EC 1.1.1.38)
+NCAV_1598,NCAV_1598,A0A2K5ASY9,Putative Cation diffusion facilitator family transporter
+NCAV_1672,NCAV_1672,A0A2K5AT68,AAA domain-containing protein
+NCAV_0628,NCAV_0628,A0A2K5AQ87,MIase domain-containing protein
+NCAV_0200,NCAV_0200,A0A2K5AP39,"Transcriptional regulator, AsnC family"
+NCAV_1717,gatE,A0A2K5ATB0,Glutamyl-tRNA(Gln) amidotransferase subunit E (Glu-ADT subunit E) (EC 6.3.5.-)
+NCAV_0658,NCAV_0658,A0A2K5AQB4,Acetyl-CoA acetyltransferase
+NCAV_0480,rpb,A0A2K5APV1,Putative RNA polymerase Rpb4
+NCAV_1359,NCAV_1359,A0A2K5ASB0,Putative methyl-accepting chemotaxis protein
+NCAV_1296,NCAV_1296,A0A2K5AS35,Prok-JAB domain-containing protein
+NCAV_0377,NCAV_0377,A0A2K5APJ0,Uncharacterized protein
+NCAV_0329,nusA,A0A2K5APF6,Probable transcription termination protein NusA
+NCAV_1631,NCAV_1631,A0A2K5AT58,Uncharacterized protein
+NCAV_1677,RPP,A0A2K5AT70,Ribonuclease P protein component 4 (EC 3.1.26.5)
+NCAV_1148,NCAV_1148,A0A2K5ARP4,Uncharacterized protein
+NCAV_0057,NCAV_0057,A0A2K5ANN8,"Putative transcriptional regulator, AsnC family"
+NCAV_0739,rpl40e,A0A2K5AQK4,50S ribosomal protein L40e
+NCAV_1374,NCAV_1374,A0A2K5ASC0,Uncharacterized protein
+NCAV_0094,NCAV_0094,A0A2K5ANS7,Putative aconitase X family protein
+NCAV_0314,NCAV_0314,A0A2K5APC9,Putative Mg-chelatase subunit
+NCAV_1302,NCAV_1302,A0A2K5AS79,Uncharacterized protein
+NCAV_0136,NCAV_0136,A0A2K5ANW4,Polynucleotide 5'-hydroxyl-kinase (EC 2.7.1.78)
+NCAV_1418,NCAV_1418,A0A2K5ASK6,Uncharacterized protein
+NCAV_1301,NCAV_1301,A0A2K5AS38,Uncharacterized protein
+NCAV_0702,NCAV_0702,A0A2K5AQF9,Uncharacterized protein
+NCAV_1633,rps6e,A0A2K5AT21,30S ribosomal protein S6e
+NCAV_0007,NCAV_0007,A0A2K5ANI7,HD domain-containing protein
+NCAV_0753,NCAV_0753,A0A2K5AQP4,Uncharacterized protein
+NCAV_1564,argF,A0A2K5ASY4,Ornithine carbamoyltransferase (OTCase) (EC 2.1.3.3)
+NCAV_1078,garR,A0A2K5ARK9,Putative 2-hydroxy-3-oxopropionate reductase (EC 1.1.1.60)
+NCAV_0015,NCAV_0015,A0A2K5ANJ7,Uncharacterized protein
+NCAV_0913,NCAV_0913,A0A2K5AR16,Uncharacterized protein
+NCAV_1171,NCAV_1171,A0A2K5ARR2,Putative Tubulin/FtsZ family GTPase
+NCAV_1392,ino,A0A2K5ASC8,Inositol-3-phosphate synthase (EC 5.5.1.4)
+NCAV_0434,NCAV_0434,A0A2K5APP1,Pyrazinamidase/nicotinamidase
+NCAV_1398,NCAV_1398,A0A2K5ASJ0,Methylmalonyl-CoA epimerase (EC 5.1.99.1)
+NCAV_0098,cysH,A0A2K5ANS6,Thioredoxin-dependent 5'-adenylylsulfate reductase (EC 1.8.4.10)
+NCAV_0259,NCAV_0259,A0A2K5AP85,HTH_45 domain-containing protein
+NCAV_0671,NCAV_0671,A0A2K5AQC8,Uncharacterized protein
+NCAV_1566,NCAV_1566,A0A2K5ASX2,"ABC-type dipeptide/oligopeptide/nickel transport system, permease component"
+NCAV_0321,nnrE,A0A2K5APF2,NAD(P)H-hydrate epimerase (EC 5.1.99.6) (NAD(P)HX epimerase)
+NCAV_1789,adhP,A0A2K5ATH8,Alcohol dehydrogenase (AdhP) (EC 1.1.1.1)
+NCAV_0825,NCAV_0825,A0A2K5AQS8,Uncharacterized protein
+NCAV_0337,NCAV_0337,A0A2K5APF5,Uncharacterized protein
+NCAV_0573,NCAV_0573,A0A2K5AQ38,Uncharacterized protein
+NCAV_0178,hisF,A0A2K5AP06,Imidazole glycerol phosphate synthase subunit HisF (EC 4.3.2.10) (IGP synthase cyclase subunit) (IGP synthase subunit HisF) (ImGP synthase subunit HisF) (IGPS subunit HisF)
+NCAV_1444,NCAV_1444,A0A2K5ASI5,Uncharacterized protein
+NCAV_0989,sir,A0A2K5AR91,Ferredoxin-sulfite/nitrite reductase (EC 1.7.7.1)
+NCAV_0732,NCAV_0732,A0A2K5AQI9,Ribonuclease (EC 3.1.26.4)
+NCAV_1240,purM,A0A2K5ARZ4,Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1) (AIR synthase) (AIRS) (Phosphoribosyl-aminoimidazole synthetase)
+NCAV_1573,NCAV_1573,A0A2K5ASW5,Putative sialidase
+NCAV_1174,NCAV_1174,A0A2K5ARQ7,Uncharacterized protein
+NCAV_0574,NCAV_0574,A0A2K5AQ75,Epimerase domain-containing protein
+NCAV_0331,rps7,A0A2K5APG5,30S ribosomal protein S7
+NCAV_0440,NCAV_0440,A0A2K5APS6,Uncharacterized protein
+NCAV_1230,NCAV_1230,A0A2K5ARY4,Putative ABC transporter ATP-binding protein
+NCAV_0642,NCAV_0642,A0A2K5AQ97,Putative Metallo-beta-lactamase protein
+NCAV_1088,NCAV_1088,A0A2K5ARL7,Uncharacterized protein
+NCAV_1762,rtcA,A0A2K5ATG1,RNA 3'-terminal phosphate cyclase (RNA cyclase) (RNA-3'-phosphate cyclase) (EC 6.5.1.4)
+NCAV_0742,NCAV_0742,A0A2K5AQK1,Uncharacterized protein
+NCAV_1495,rpoB,A0A2K5ASP4,DNA-directed RNA polymerase subunit beta (EC 2.7.7.6)
+NCAV_0921,NCAV_0921,A0A2K5AR21,Putative Sua5/YciO/YrdC/YwlC family protein
+NCAV_1429,leuS,A0A2K5ASI0,Leucine--tRNA ligase (EC 6.1.1.4) (Leucyl-tRNA synthetase) (LeuRS)
+NCAV_1015,NCAV_1015,A0A2K5ARB0,Uncharacterized protein
+NCAV_1540,NCAV_1540,A0A2K5AST0,Uncharacterized protein
+NCAV_1686,tfs,A0A2K5AT99,Transcription factor S
+NCAV_0861,NCAV_0861,A0A2K5AQV2,Putative radical SAM domain protein
+NCAV_0558,ndk,A0A2K5AQ24,Nucleoside diphosphate kinase (EC 2.7.4.6)
+NCAV_1671,NCAV_1671,A0A2K5AT96,NitrOD5 domain-containing protein
+NCAV_0595,NCAV_0595,A0A2K5AQ51,Nucleotide pyrophosphatase
+NCAV_0177,hisI,A0A2K5AP18,Phosphoribosyl-AMP cyclohydrolase (PRA-CH) (EC 3.5.4.19)
+NCAV_1424,NCAV_1424,A0A2K5ASH1,Uncharacterized protein
+NCAV_0391,NCAV_0391,A0A2K5APM0,"RNA-binding protein, contains TRAM domain"
+NCAV_0124,NCAV_0124,A0A2K5ANV9,Uncharacterized protein
+NCAV_1025,NCAV_1025,A0A2K5ARC0,Uncharacterized protein
+NCAV_1054,NCAV_1054,A0A2K5ARE8,Uncharacterized protein
+NCAV_1243,NCAV_1243,A0A2K5ARZ3,Uncharacterized protein
+NCAV_1432,NCAV_1432,A0A2K5ASG8,Uncharacterized protein
+NCAV_0749,gatA,A0A2K5AQL6,Glutamyl-tRNA(Gln) amidotransferase subunit A (Glu-ADT subunit A) (EC 6.3.5.7)
+NCAV_0577,NCAV_0577,A0A2K5AQ53,"Glycosyl transferase, group 1"
+NCAV_1108,NCAV_1108,A0A2K5ARN8,Putative NAD-dependent alcohol dehydrogenase
+NCAV_1192,NCAV_1192,A0A2K5ARX0,Putative ribokinase
+NCAV_1036,NCAV_1036,A0A2K5ARD6,AAA domain-containing protein
+NCAV_0241,secY,A0A2K5AP63,Protein translocase subunit SecY
+NCAV_1008,NCAV_1008,A0A2K5ARD1,SF3 helicase domain-containing protein
+NCAV_0139,NCAV_0139,A0A2K5AP11,Uncharacterized protein
+NCAV_0317,NCAV_0317,A0A2K5APD5,Uncharacterized protein
+NCAV_1759,NCAV_1759,A0A2K5ATF2,Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+NCAV_1577,NCAV_1577,A0A2K5ASX3,Putative S-layer domain protein
+NCAV_1588,gpmB,A0A2K5ASX9,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (EC 5.4.2.-)"
+NCAV_0189,NCAV_0189,A0A2K5AP55,Putative subtilase family protein
+NCAV_1269,NCAV_1269,A0A2K5AS08,UDP-glucuronosyltransferase
+NCAV_0837,NCAV_0837,A0A2K5AQW1,Uncharacterized protein
+NCAV_1780,cas4,A0A2K5ATI4,CRISPR-associated exonuclease Cas4 (EC 3.1.12.1)
+NCAV_0356,pfdB,A0A2K5API9,Prefoldin subunit beta (GimC subunit beta)
+NCAV_0047,NCAV_0047,A0A2K5ANN0,"2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one reductase (EC 1.1.1.302) (2,5-diamino-6-ribitylamino-4(3H)-pyrimidinone 5'-phosphate synthase) (2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase)"
+NCAV_1642,cbiC,A0A2K5AT38,Cobalt-precorrin-8 methylmutase (EC 5.4.99.60)
+NCAV_0360,rrp,A0A2K5API6,Exosome complex component Rrp41 (EC 3.1.13.-)
+NCAV_1367,flaH,A0A2K5ASB2,Flagella protein FlaH
+NCAV_1260,NCAV_1260,A0A2K5AS22,HTH_45 domain-containing protein
+NCAV_1499,NCAV_1499,A0A2K5ASP2,Uncharacterized protein
+NCAV_0555,NCAV_0555,A0A2K5AQ11,Copper-containing nitrite reductase (EC 1.7.2.1)
+NCAV_0959,speH,A0A2K5AR61,S-adenosylmethionine decarboxylase proenzyme (AdoMetDC) (SAMDC) (EC 4.1.1.50) [Cleaved into: S-adenosylmethionine decarboxylase beta chain; S-adenosylmethionine decarboxylase alpha chain]
+NCAV_0868,NCAV_0868,A0A2K5AQY9,Uncharacterized protein
+NCAV_0784,NCAV_0784,A0A2K5AQR1,Uncharacterized protein
+NCAV_1018,NCAV_1018,A0A2K5ARD9,Uncharacterized protein
+NCAV_0065,atpA,A0A2K5ANP5,V-type ATP synthase alpha chain (EC 7.1.2.2) (V-ATPase subunit A)
+NCAV_0308,tktA,A0A2K5APD2,Transketolase (EC 2.2.1.1)
+NCAV_1308,thrS,A0A2K5AS97,Threonine--tRNA ligase (EC 6.1.1.3) (Threonyl-tRNA synthetase) (ThrRS)
+NCAV_0606,NCAV_0606,A0A2K5AQB7,Uncharacterized protein
+NCAV_0988,NCAV_0988,A0A2K5ARB2,Rhodanese domain protein
+NCAV_0548,NCAV_0548,A0A2K5AQ09,MIase domain-containing protein
+NCAV_1561,NCAV_1561,A0A2K5ASU8,C2H2-type domain-containing protein
+NCAV_0894,NCAV_0894,A0A2K5AQZ0,"S-adenosylmethionine synthetase, S-adenosylmethionine synthetase (EC 2.5.1.6)"
+NCAV_1702,NCAV_1702,A0A2K5ATA3,Putative Nitrogen regulatory protein P-II 2
+NCAV_1782,cas5b,A0A2K5ATH5,CRISPR-associated protein Cas5
+NCAV_0226,NCAV_0226,A0A2K5AP59,Non-heme iron oxygenase ferredoxin subunit
+NCAV_0519,NCAV_0519,A0A2K5APZ0,Uncharacterized protein
+NCAV_1738,dtxR,A0A2K5ATE5,Diphtheria toxin repressor protein
+NCAV_0933,NCAV_0933,A0A2K5AR35,Uncharacterized protein
+NCAV_1655,NCAV_1655,A0A2K5AT36,"Putative Amino acid transporter, APC family"
+NCAV_1490,NCAV_1490,A0A2K5ASM9,Transcriptional regulator
+NCAV_0336,NCAV_0336,A0A2K5APH1,Uncharacterized protein
+NCAV_0037,NCAV_0037,A0A2K5ANL2,Putative FAD dependent oxidoreductase
+NCAV_0564,NCAV_0564,A0A2K5AQ64,Uncharacterized protein
+NCAV_0318,NCAV_0318,A0A2K5APE0,Uncharacterized protein
+NCAV_0306,NCAV_0306,A0A2K5APE4,Uncharacterized protein
+NCAV_1160,NCAV_1160,A0A2K5ARS0,16S rRNA aminocarboxypropyltransferase (EC 2.5.1.-)
+NCAV_1688,NCAV_1688,A0A2K5AT97,Uncharacterized protein
+NCAV_1567,NCAV_1567,A0A2K5ASW4,"ABC-type dipeptide/oligopeptide/nickel transport system, permease component"
+NCAV_0977,NCAV_0977,A0A2K5ARC7,Uncharacterized protein
+NCAV_0903,NCAV_0903,A0A2K5AR06,Uncharacterized protein
+NCAV_0294,pyrE,A0A2K5APA5,Orotate phosphoribosyltransferase (OPRT) (OPRTase) (EC 2.4.2.10)
+NCAV_1087,NCAV_1087,A0A2K5ARN9,Translation initiation factor 5A
+NCAV_0055,NCAV_0055,A0A2K5ANN3,Uncharacterized protein
+NCAV_1271,NCAV_1271,A0A2K5AS06,Uncharacterized protein
+NCAV_0286,mntB,A0A2K5APC5,"ABC uptake transporter, ATP-binding protein"
+NCAV_1055,NCAV_1055,A0A2K5ARE7,Uncharacterized protein
+NCAV_1670,NCAV_1670,A0A2K5AT62,Uncharacterized protein
+NCAV_0926,NCAV_0926,A0A2K5AR27,Uncharacterized protein
+NCAV_1083,NCAV_1083,A0A2K5ARH5,2-alkenal reductase
+NCAV_1226,NCAV_1226,A0A2K5ARX3,N-acetyltransferase domain-containing protein
+NCAV_0399,rps25e,A0A2K5APM8,30S ribosomal protein S25e
+NCAV_0430,NCAV_0430,A0A2K5APR3,Uncharacterized protein
+NCAV_0159,guaB,A0A2K5AP23,Inosine-5'-monophosphate dehydrogenase (IMP dehydrogenase) (IMPD) (IMPDH) (EC 1.1.1.205)
+NCAV_0024,coaBC,A0A2K5ANL3,Coenzyme A biosynthesis bifunctional protein CoaBC (DNA/pantothenate metabolism flavoprotein) (Phosphopantothenoylcysteine synthetase/decarboxylase) (PPCS-PPCDC) [Includes: Phosphopantothenoylcysteine decarboxylase (PPC decarboxylase) (PPC-DC) (EC 4.1.1.36) (CoaC); Phosphopantothenate--cysteine ligase (EC 6.3.2.5) (CoaB) (Phosphopantothenoylcysteine synthetase) (PPC synthetase) (PPC-S)]
+NCAV_0631,NCAV_0631,A0A2K5AQD7,Uncharacterized protein
+NCAV_1781,cas3,A0A2K5ATK8,CRISPR-associated nuclease/helicase Cas3 (EC 3.1.-.-) (EC 3.6.4.-)
+NCAV_1687,pcn,A0A2K5AT80,DNA polymerase sliding clamp (Proliferating cell nuclear antigen homolog) (PCNA)
+NCAV_0679,NCAV_0679,A0A2K5AQE6,Putative hydrogenase expression/formation protein HypE
+NCAV_0998,thsB,A0A2K5ARC2,Putative chaperonin Hsp60/Cpn60/TCP-1
+NCAV_0078,NCAV_0078,A0A2K5ANQ6,ArsR family transcriptional regulator
+NCAV_1422,bioA,A0A2K5ASF4,"Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62) (7,8-diamino-pelargonic acid aminotransferase) (DAPA AT) (DAPA aminotransferase) (7,8-diaminononanoate synthase) (DANS) (Diaminopelargonic acid synthase)"
+NCAV_0064,atpE,A0A2K5ANP8,V-type proton ATPase subunit E (V-ATPase subunit E)
+NCAV_1691,NCAV_1691,A0A2K5ATC1,Uncharacterized protein
+NCAV_0647,NCAV_0647,A0A2K5AQB1,Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
+NCAV_1536,NCAV_1536,A0A2K5ASU2,Uncharacterized protein
+NCAV_1343,NCAV_1343,A0A2K5ASB4,Putative prepilin peptidase
+NCAV_0466,NCAV_0466,A0A2K5APU3,Epimerase domain-containing protein
+NCAV_1052,NCAV_1052,A0A2K5ARJ8,Uncharacterized protein
+NCAV_1658,thrB,A0A2K5AT59,Homoserine kinase (HK) (HSK) (EC 2.7.1.39)
+NCAV_0811,NCAV_0811,A0A2K5AQR7,Hit family protein (Hit)
+NCAV_1656,NCAV_1656,A0A2K5AT71,Uncharacterized protein
+NCAV_0632,ilvC,A0A2K5AQA4,Ketol-acid reductoisomerase (NADP(+)) (KARI) (EC 1.1.1.86) (Acetohydroxy-acid isomeroreductase) (AHIR) (Alpha-keto-beta-hydroxylacyl reductoisomerase)
+NCAV_1137,NCAV_1137,A0A2K5ARN1,UPF0056 membrane protein
+NCAV_1365,flaJ,A0A2K5ASB5,Putative archaeal flagella assembly protein J
+NCAV_1346,NCAV_1346,A0A2K5AS99,Putative prepilin peptidase
+NCAV_1300,dpo,A0A2K5AS58,DNA polymerase (EC 2.7.7.7)
+NCAV_1380,NCAV_1380,A0A2K5ASC2,Uncharacterized protein
+NCAV_0460,NCAV_0460,A0A2K5APU1,Uncharacterized protein
+NCAV_1556,pckA,A0A2K5ASW3,Phosphoenolpyruvate carboxykinase (ATP) (PCK) (PEP carboxykinase) (PEPCK) (EC 4.1.1.49)
+NCAV_0307,NCAV_0307,A0A2K5APC7,PfkB domain-containing protein
+NCAV_1223,galT,A0A2K5ARW9,Putative UDP-glucose-hexose-1-phosphate uridylyltransferase (EC 2.7.7.12)
+NCAV_1261,NCAV_1261,A0A2K5ARZ7,Uncharacterized protein
+NCAV_0117,NCAV_0117,A0A2K5ANV8,Glycine--tRNA ligase (EC 6.1.1.14)
+NCAV_0473,NCAV_0473,A0A2K5APY2,Omega-protein (EC 5.6.2.1) (Relaxing enzyme) (Swivelase) (Untwisting enzyme)
+NCAV_0014,NCAV_0014,A0A2K5ANK3,NUDIX hydrolase
+NCAV_1270,NCAV_1270,A0A2K5AS32,Uncharacterized protein
+NCAV_1391,NCAV_1391,A0A2K5ASE2,Nitrilase/cyanide hydratase and apolipoprotein N-acyltransferase
+NCAV_0712,NCAV_0712,A0A2K5AQG6,SCP domain-containing protein
+NCAV_1431,NCAV_1431,A0A2K5ASI4,Uncharacterized protein
+NCAV_0416,NCAV_0416,A0A2K5APP2,Putative Peptidylamidoglycolate lyase (EC 4.3.2.5)
+NCAV_0881,NCAV_0881,A0A2K5AQX9,Uncharacterized protein
+NCAV_1060,NCAV_1060,A0A2K5ARH8,Uncharacterized protein
+NCAV_1314,rpiA,A0A2K5AS54,Ribose-5-phosphate isomerase A (EC 5.3.1.6) (Phosphoriboisomerase A) (PRI)
+NCAV_0257,NCAV_0257,A0A2K5AP89,Peptidase M20
+NCAV_0163,csl,A0A2K5ANZ4,Exosome complex component Csl4
+NCAV_0520,NCAV_0520,A0A2K5APY8,"Arsenical pump membrane protein, ArsB"
+NCAV_0352,nadK,A0A2K5API3,NAD kinase (EC 2.7.1.23) (ATP-dependent NAD kinase)
+NCAV_1038,NCAV_1038,A0A2K5ARG3,Uncharacterized protein
+NCAV_0562,NCAV_0562,A0A2K5AQ57,Uncharacterized protein
+NCAV_1492,NCAV_1492,A0A2K5ASN9,Uncharacterized protein
+NCAV_0961,NCAV_0961,A0A2K5AR68,Uncharacterized protein
+NCAV_0164,NCAV_0164,A0A2K5ANZ7,2-(3-amino-3-carboxypropyl)histidine synthase (EC 2.5.1.108)
+NCAV_0296,NCAV_0296,A0A2K5APD4,Site-2 protease family protein
+NCAV_0045,NCAV_0045,A0A2K5ANM4,Uncharacterized protein
+NCAV_0851,mrp,A0A2K5AR03,Iron-sulfur cluster carrier protein
+NCAV_0991,NCAV_0991,A0A2K5AR94,Uncharacterized protein
+NCAV_1518,fni,A0A2K5ASU7,Isopentenyl-diphosphate delta-isomerase (IPP isomerase) (EC 5.3.3.2) (Isopentenyl diphosphate:dimethylallyl diphosphate isomerase) (Isopentenyl pyrophosphate isomerase) (Type 2 isopentenyl diphosphate isomerase) (IDI-2)
+NCAV_1638,nop,A0A2K5AT42,Ribosome biogenesis protein Nop10
+NCAV_1257,mre,A0A2K5AS44,DNA double-strand break repair protein Mre11 (EC 3.1.-.-)
+NCAV_0433,NCAV_0433,A0A2K5APU0,"Iron (Metal) dependent repressor, DtxR family"
+NCAV_0044,NCAV_0044,A0A2K5ANN1,Protein GrpE
+NCAV_1395,NCAV_1395,A0A2K5ASE9,Cytidyltransferase
+NCAV_0751,NCAV_0751,A0A2K5AQK0,SIS domain-containing protein
+NCAV_0789,NCAV_0789,A0A2K5AQQ0,Threonine synthase (EC 4.2.3.1)
+NCAV_1557,NCAV_1557,A0A2K5ASV5,Subtilase family protein (Modular protein)
+NCAV_1728,NCAV_1728,A0A2K5ATD4,Uncharacterized protein
+NCAV_0452,NCAV_0452,A0A2K5APT2,Uncharacterized protein
+NCAV_0697,NCAV_0697,A0A2K5AQE3,Uncharacterized protein
+NCAV_0531,endA,A0A2K5AQ12,tRNA-splicing endonuclease (EC 4.6.1.16)
+NCAV_1710,NCAV_1710,A0A2K5ATA8,Uncharacterized protein
+NCAV_0680,NCAV_0680,A0A2K5AQD3,Uncharacterized protein
+NCAV_0312,tal,A0A2K5APD9,Probable transaldolase (EC 2.2.1.2)
+NCAV_1654,NCAV_1654,A0A2K5AT60,Uncharacterized protein
+NCAV_0758,NCAV_0758,A0A2K5AQR4,Uncharacterized protein
+NCAV_1427,NCAV_1427,A0A2K5ASH2,5'-deoxynucleotidase (EC 3.1.3.89)
+NCAV_0729,pyrD,A0A2K5AQJ6,Dihydroorotate dehydrogenase (DHOD) (DHODase) (DHOdehase) (EC 1.3.-.-)
+NCAV_0281,NCAV_0281,A0A2K5AP96,"O-methyltransferase, family 2"
+NCAV_0797,NCAV_0797,A0A2K5AQP2,Adenylate/guanylate cyclase (Modular protein)
+NCAV_1101,NCAV_1101,A0A2K5ARL0,Type-4 uracil-DNA glycosylase (EC 3.2.2.27)
+NCAV_0462,NCAV_0462,A0A2K5APT8,Uncharacterized protein
+NCAV_1750,NCAV_1750,A0A2K5ATF4,"RNA 2',3'-cyclic phosphodiesterase (RNA 2',3'-CPDase) (EC 3.1.4.58)"
+NCAV_0755,rps26e,A0A2K5AQJ7,30S ribosomal protein S26e
+NCAV_0605,NCAV_0605,A0A2K5AQ60,GSDH domain-containing protein
+NCAV_0290,NCAV_0290,A0A2K5APC1,Ribonuclease H
+NCAV_1535,NCAV_1535,A0A2K5ASS4,SpoVT-AbrB domain-containing protein
+NCAV_0234,NCAV_0234,A0A2K5AP67,Putative SSB-like single OB-fold protein
+NCAV_0066,atpB,A0A2K5ANP7,V-type ATP synthase beta chain (V-ATPase subunit B)
+NCAV_0496,NCAV_0496,A0A2K5AQ13,Uncharacterized protein
+NCAV_0777,NCAV_0777,A0A2K5AQM5,Uncharacterized protein
+NCAV_0371,NCAV_0371,A0A2K5APK4,Uncharacterized protein
+NCAV_0855,NCAV_0855,A0A2K5AQV8,Uncharacterized protein
+NCAV_0310,tktB,A0A2K5APD6,"Transketolase, C-terminal subunit (EC 2.2.1.1)"
+NCAV_1489,NCAV_1489,A0A2K5ASN1,Asparagine synthetase B
+NCAV_1286,NCAV_1286,A0A2K5AS28,Sec-independent protein secretion pathway component
+NCAV_1706,pstB,A0A2K5ATB6,Phosphate import ATP-binding protein PstB (EC 7.3.2.1) (ABC phosphate transporter) (Phosphate-transporting ATPase)
+NCAV_1128,NCAV_1128,A0A2K5ART1,TrmB domain-containing protein
+NCAV_1098,IARS,A0A2K5ARM7,Isoleucine--tRNA ligase (EC 6.1.1.5)
+NCAV_0847,NCAV_0847,A0A2K5AQX1,Uncharacterized protein
+NCAV_1550,NCAV_1550,A0A2K5AST9,Methylated-DNA--[protein]-cysteine S-methyltransferase (EC 2.1.1.63)
+NCAV_1410,NCAV_1410,A0A2K5ASE8,Lysine biosynthesis protein LysW
+NCAV_1094,NCAV_1094,A0A2K5ARJ3,Putative Xanthine phosphoribosyltransferase (EC 2.4.2.22)
+NCAV_0279,NCAV_0279,A0A2K5APA6,TENA/THI-4 domain protein
+NCAV_0479,NCAV_0479,A0A2K5APV0,Predicted RNA-binging protein
+NCAV_0746,aspS,A0A2K5AQN7,Aspartate--tRNA(Asp/Asn) ligase (EC 6.1.1.23) (Aspartyl-tRNA synthetase) (AspRS) (Non-discriminating aspartyl-tRNA synthetase) (ND-AspRS)
+NCAV_1151,NCAV_1151,A0A2K5ARQ2,Uncharacterized protein
+NCAV_0372,NCAV_0372,A0A2K5APK0,Uncharacterized protein
+NCAV_0940,hmtA,A0A2K5AR63,DNA-binding protein HMt-1.2
+NCAV_1086,NCAV_1086,A0A2K5ARI6,EFP_N domain-containing protein
+NCAV_0817,rps8p,A0A2K5AQT9,30S ribosomal protein S8
+NCAV_0363,NCAV_0363,A0A2K5APL5,DNA-directed RNA polymerase (EC 2.7.7.6)
+NCAV_0397,NCAV_0397,A0A2K5APL4,Cation diffusion facilitator family transporter
+NCAV_0997,NCAV_0997,A0A2K5ARF1,Uncharacterized protein
+NCAV_0810,NCAV_0810,A0A2K5AQW0,M20_dimer domain-containing protein
+NCAV_0857,nadA,A0A2K5AR05,Quinolinate synthase A (EC 2.5.1.72)
+NCAV_1326,NCAV_1326,A0A2K5AS78,Uncharacterized protein
+NCAV_1574,NCAV_1574,A0A2K5ASZ5,HTH_45 domain-containing protein
+NCAV_0592,NCAV_0592,A0A2K5AQ81,Uncharacterized protein
+NCAV_0051,ribB,A0A2K5ANM9,"3,4-dihydroxy-2-butanone 4-phosphate synthase (DHBP synthase) (EC 4.1.99.12)"
+NCAV_0526,NCAV_0526,A0A2K5AQ39,FeS_assembly_P domain-containing protein
+NCAV_0752,NCAV_0752,A0A2K5AQL1,Uncharacterized protein
+NCAV_1389,NCAV_1389,A0A2K5ASD9,Nucleotidyl-transferase
+NCAV_1022,NCAV_1022,A0A2K5ARG9,Uncharacterized protein
+NCAV_0744,NCAV_0744,A0A2K5AQM0,Uncharacterized protein
+NCAV_1442,NCAV_1442,A0A2K5ASH5,Transposase
+NCAV_0691,NCAV_0691,A0A2K5AQE4,Uncharacterized protein
+NCAV_0376,NCAV_0376,A0A2K5APK9,Radical SAM protein
+NCAV_1012,NCAV_1012,A0A2K5ARG4,Uncharacterized protein
+NCAV_0036,NCAV_0036,A0A2K5ANL5,Hemerythrin domain-containing protein
+NCAV_0387,aroE,A0A2K5APK2,Shikimate dehydrogenase (NADP(+)) (SDH) (EC 1.1.1.25)
+NCAV_0435,NCAV_0435,A0A2K5APU5,"Putative ATPase, PilT family"
+NCAV_1586,coxB,A0A2K5ASZ2,Putative heme-copper oxidase subunit II (EC 1.9.3.1)
+NCAV_1030,NCAV_1030,A0A2K5ARF4,Uncharacterized protein
+NCAV_0983,NCAV_0983,A0A2K5AR80,Uncharacterized protein
+NCAV_1166,ilvD,A0A2K5ARQ3,Dihydroxy-acid dehydratase (DAD) (EC 4.2.1.9)
+NCAV_1591,NCAV_1591,A0A2K5ASX5,Aminotransferase (EC 2.6.1.-)
+NCAV_1512,rpoN,A0A2K5ASQ6,DNA-directed RNA polymerase subunit N (EC 2.7.7.6)
+NCAV_0917,NCAV_0917,A0A2K5AR66,Uncharacterized protein
+NCAV_0172,NCAV_0172,A0A2K5AP05,Acylphosphatase (EC 3.6.1.7)
+NCAV_0285,mntA,A0A2K5APE1,"ABC uptake transporter, substrate-binding protein"
+NCAV_1356,cheB,A0A2K5ASA8,Chemotaxis response regulator protein-glutamate methylesterase (EC 3.1.1.61)
+NCAV_0503,NCAV_0503,A0A2K5APX4,Cell division cycle protein 48 homolog AF_1297
+NCAV_0773,secG,A0A2K5AQR3,Preprotein translocase subunit SecG
+NCAV_0008,tmk,A0A2K5ANI5,Probable thymidylate kinase (EC 2.7.4.9) (dTMP kinase)
+NCAV_0743,purP,A0A2K5AQN3,5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase (EC 6.3.4.23) (5-aminoimidazole-4-carboxamide-1-beta-D-ribofuranosyl 5'-monophosphate--formate ligase)
+NCAV_0193,NCAV_0193,A0A2K5AP28,Uncharacterized protein
+NCAV_1033,NCAV_1033,A0A2K5ARC9,Uncharacterized protein
+NCAV_0510,NCAV_0510,A0A2K5APX9,Uncharacterized protein
+NCAV_0523,sdhC,A0A2K5APZ3,Putative succinate dehydrogenase/fumarate reductase (EC 1.-.-.-)
+NCAV_0688,NCAV_0688,A0A2K5AQJ2,NADH:ubiquinone oxidoreductase chain I-like protein
+NCAV_0559,rpl24e,A0A2K5AQ36,50S ribosomal protein L24e
+NCAV_1234,leuA,A0A2K5ARX9,Putative 2-isopropylmalate synthase (EC 2.3.3.13)
+NCAV_0918,NCAV_0918,A0A2K5AR28,Uncharacterized protein
+NCAV_0027,NCAV_0027,A0A2K5ANK5,tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+NCAV_0552,NCAV_0552,A0A2K5AQ44,3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase (EC 3.2.2.-) (EC 4.2.99.18)
+NCAV_0436,NCAV_0436,A0A2K5APR0,Aspartate kinase
+NCAV_1614,etfB,A0A2K5AT20,"Putative electron transfer flavoprotein, subunit beta"
+NCAV_0063,NCAV_0063,A0A2K5ANQ0,Uncharacterized protein
+NCAV_1758,NCAV_1758,A0A2K5ATG9,"Putative ATPase, PP-loop superfamily"
+NCAV_1727,NCAV_1727,A0A2K5ATC6,Uncharacterized protein
+NCAV_1263,NCAV_1263,A0A2K5AS11,Thiamine_BP domain-containing protein
+NCAV_1375,NCAV_1375,A0A2K5ASC5,Uncharacterized protein
+NCAV_0600,NCAV_0600,A0A2K5AQ62,Uncharacterized protein
+NCAV_0842,purL,A0A2K5AQV0,Phosphoribosylformylglycinamidine synthase subunit PurL (FGAM synthase) (EC 6.3.5.3) (Formylglycinamide ribonucleotide amidotransferase subunit II) (FGAR amidotransferase II) (FGAR-AT II) (Glutamine amidotransferase PurL) (Phosphoribosylformylglycinamidine synthase subunit II)
+NCAV_0346,NCAV_0346,A0A2K5API1,PINc domain-containing protein
+NCAV_1105,NCAV_1105,A0A2K5ARJ5,Uncharacterized protein
+NCAV_0872,rfcS,A0A2K5AR24,Clamp loader small subunit (Replication factor C small subunit)
+NCAV_0091,copA,A0A2K5ANR8,Copper-exporting P-type ATPase (EC 3.6.3.54)
+NCAV_0153,NCAV_0153,A0A2K5ANY6,Uncharacterized protein
+NCAV_0121,priA,A0A2K5ANV2,DNA primase small subunit PriS (EC 2.7.7.-)
+NCAV_1514,rps2p,A0A2K5ASQ9,30S ribosomal protein S2p
+NCAV_1081,NCAV_1081,A0A2K5ARI7,Uncharacterized protein
+NCAV_1360,NCAV_1360,A0A2K5AS95,Putative methyl-accepting chemotaxis protein
+NCAV_1595,NCAV_1595,A0A2K5AT15,Putative MtN3 (Sweet) Family transporter
+NCAV_1173,fumC,A0A2K5ARQ9,Putative fumarate hydratase
+NCAV_1127,ubiX,A0A2K5ARM4,Flavin prenyltransferase UbiX (EC 2.5.1.129)
+NCAV_0084,NCAV_0084,A0A2K5ANS3,Uncharacterized protein
+NCAV_0345,NCAV_0345,A0A2K5APK3,SpoVT-AbrB domain-containing protein
+NCAV_1730,NCAV_1730,A0A2K5ATC8,Putative methylthioribose-1-phosphate isomerase (M1Pi) (MTR-1-P isomerase) (EC 5.3.1.23) (MTNA-like protein) (aMTNA) (S-methyl-5-thioribose-1-phosphate isomerase)
+NCAV_1184,NCAV_1184,A0A2K5ARS1,Uncharacterized protein
+NCAV_0160,NCAV_0160,A0A2K5ANZ2,Putative myo-inositol-1-phosphate synthase
+NCAV_1435,NCAV_1435,A0A2K5ASI7,Uncharacterized protein
+NCAV_1747,NCAV_1747,A0A2K5ATD9,Uncharacterized protein
+NCAV_1310,NCAV_1310,A0A2K5AS48,FAD-binding FR-type domain-containing protein
+NCAV_0677,NCAV_0677,A0A2K5AQC5,Putative Glycerate 2-kinase (EC 2.7.1.165)
+NCAV_0122,NCAV_0122,A0A2K5ANV6,Uncharacterized protein
+NCAV_1180,NCAV_1180,A0A2K5ART8,Uncharacterized protein
+NCAV_1017,NCAV_1017,A0A2K5ARH3,Uncharacterized protein
+NCAV_1114,NCAV_1114,A0A2K5ARL3,Acetate--CoA ligase (ADP-forming) (EC 6.2.1.13)
+NCAV_1181,NCAV_1181,A0A2K5ARR9,Uncharacterized protein
+NCAV_0590,NCAV_0590,A0A2K5AQ56,Uncharacterized protein
+NCAV_1478,NCAV_1478,A0A2K5ASQ5,Uncharacterized protein
+NCAV_0408,NCAV_0408,A0A2K5APN2,3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)
+NCAV_1486,NCAV_1486,A0A2K5ASM8,Uncharacterized protein
+NCAV_0425,NCAV_0425,A0A2K5APT5,Uncharacterized protein
+NCAV_0984,NCAV_0984,A0A2K5AR78,Uncharacterized protein
+NCAV_1485,NCAV_1485,A0A2K5ASN8,Uncharacterized protein
+NCAV_1353,hcs,A0A2K5ASC4,Hydroxymethylglutaryl-CoA synthase (EC 2.3.3.10)
+NCAV_1371,flaB,A0A2K5ASC1,Flagellin
+NCAV_0793,ppdK,A0A2K5AQT5,"Pyruvate, phosphate dikinase (EC 2.7.9.1)"
+NCAV_1254,argG,A0A2K5AS00,Argininosuccinate synthase (EC 6.3.4.5) (Citrulline--aspartate ligase)
+NCAV_1693,NCAV_1693,A0A2K5AT82,Precorrin-3B methylase
+NCAV_1107,NCAV_1107,A0A2K5ARR3,Archaeal/vacuolar-type H+-ATPase subunit F (EC 4.2.1.20)
+NCAV_1111,NCAV_1111,A0A2K5ARM1,Topoisomerase
+NCAV_0413,NCAV_0413,A0A2K5APR8,tRNA methyltransferase
+NCAV_1684,NCAV_1684,A0A2K5AT92,Uncharacterized protein
+NCAV_1228,oppD,A0A2K5ARY7,Oligopeptide transporter subunit ATP-binding component of ABC superfamily
+NCAV_0709,NCAV_0709,A0A2K5AQH6,Uncharacterized protein
+NCAV_1618,NCAV_1618,A0A2K5AT22,AIRC domain-containing protein
+NCAV_0439,NCAV_0439,A0A2K5APR2,Thioredox_DsbH domain-containing protein
+NCAV_1092,mqnC,A0A2K5ARN7,Cyclic dehypoxanthine futalosine synthase (Cyclic DHFL synthase) (EC 1.21.98.1) (Dehypoxanthine futalosine cyclase) (DHFL cyclase) (Menaquinone biosynthetic enzyme MqnC)
+NCAV_0599,NCAV_0599,A0A2K5AQ72,NTP_transferase domain-containing protein
+NCAV_1242,NCAV_1242,A0A2K5AS13,Uncharacterized protein
+NCAV_1288,NCAV_1288,A0A2K5AS47,Uncharacterized protein
+NCAV_0759,NCAV_0759,A0A2K5AQM4,Blue (Type1) copper domain-containing protein
+NCAV_0635,NCAV_0635,A0A2K5AQ89,Uncharacterized protein
+NCAV_0955,NCAV_0955,A0A2K5AR59,Usp domain-containing protein
+NCAV_0750,gatB,A0A2K5AQK2,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B (Asp/Glu-ADT subunit B) (EC 6.3.5.-)
+NCAV_1563,ftsY,A0A2K5ASV4,Signal recognition particle receptor FtsY (SRP receptor)
+NCAV_1787,NCAV_1787,A0A2K5ATH9,Thioredoxin domain-containing protein
+NCAV_0674,NCAV_0674,A0A2K5AQF6,Cas_Cas4 domain-containing protein
+NCAV_0106,NCAV_0106,A0A2K5ANT6,Uncharacterized protein
+NCAV_1520,gltX,A0A2K5ASR1,Glutamate--tRNA ligase (EC 6.1.1.17) (Glutamyl-tRNA synthetase) (GluRS)
+NCAV_1692,NCAV_1692,A0A2K5AT95,Putative F420-dependent oxidoreductase
+NCAV_1428,NCAV_1428,A0A2K5ASL4,Uncharacterized protein
+NCAV_1075,NCAV_1075,A0A2K5ARG7,Uncharacterized protein
+NCAV_1711,acyP,A0A2K5ATE2,Acylphosphatase (EC 3.6.1.7)
+NCAV_1547,spt,A0A2K5AST8,Transcription elongation factor Spt5
+NCAV_0930,NCAV_0930,A0A2K5AR57,Uncharacterized protein
+NCAV_0034,NCAV_0034,A0A2K5ANM3,Uncharacterized protein
+NCAV_1118,NCAV_1118,A0A2K5ARP6,Non-specific serine/threonine protein kinase (EC 2.7.11.1)
+NCAV_0651,NCAV_0651,A0A2K5AQD5,Uncharacterized protein
+NCAV_0212,NCAV_0212,A0A2K5AP50,Uncharacterized protein
+NCAV_0302,NCAV_0302,A0A2K5APC6,Uncharacterized protein
+NCAV_1372,NCAV_1372,A0A2K5ASA9,Fe-S oxidoreductase
+NCAV_0601,NCAV_0601,A0A2K5AQ98,Uncharacterized protein
+NCAV_0717,NCAV_0717,A0A2K5AQF8,Non-specific serine/threonine protein kinase (EC 2.7.11.1)
+NCAV_0652,NCAV_0652,A0A2K5AQD0,Uncharacterized protein
+NCAV_0365,rpl13p,A0A2K5APM1,50S ribosomal protein L13
+NCAV_1145,NCAV_1145,A0A2K5ARP2,Uncharacterized protein
+NCAV_0166,NCAV_0166,A0A2K5ANZ5,"Putative transcriptional regulator, AsnC family"
+NCAV_0761,trpB,A0A2K5AQK9,Tryptophan synthase beta chain (EC 4.2.1.20)
+NCAV_0401,rpoK,A0A2K5APM6,DNA-directed RNA polymerase subunit K (EC 2.7.7.6)
+NCAV_1531,NCAV_1531,A0A2K5ASS1,Uncharacterized protein
+NCAV_0767,tfb,A0A2K5AQL4,Transcription initiation factor IIB (TFIIB)
+NCAV_1635,eif2g,A0A2K5AT16,Protein-synthesizing GTPase (EC 3.6.5.3)
+NCAV_1203,dbh,A0A2K5ARU0,DNA polymerase IV (Pol IV) (EC 2.7.7.7)
+NCAV_0672,nrgA,A0A2K5AQD1,Ammonium transporter
+NCAV_1325,NCAV_1325,A0A2K5AS70,Uncharacterized protein
+NCAV_1735,NCAV_1735,A0A2K5ATC0,Transcriptional regulator
+NCAV_1104,NCAV_1104,A0A2K5ARK3,DNA helicase (EC 3.6.4.12)
+NCAV_0326,NCAV_0326,A0A2K5APG4,Uncharacterized protein
+NCAV_1645,cbiD,A0A2K5AT27,Cobalt-precorrin-5B C(1)-methyltransferase (EC 2.1.1.195) (Cobalt-precorrin-6A synthase)
+NCAV_0845,NCAV_0845,A0A2K5AQU8,Flavin nucleotide binding protein
+NCAV_1046,NCAV_1046,A0A2K5ARE6,Uncharacterized protein
+NCAV_1323,NCAV_1323,A0A2K5AS98,Uncharacterized protein
+NCAV_0727,NCAV_0727,A0A2K5AQG7,Uncharacterized protein
+NCAV_1440,NCAV_1440,A0A2K5ASH8,Carboxymuconolactone decarboxylase family protein
+NCAV_0778,NCAV_0778,A0A2K5AQT1,Uncharacterized protein
+NCAV_1643,NCAV_1643,A0A2K5AT39,Putative cobalamin (Vitamin B12) biosynthesis CbiX protein
+NCAV_1342,NCAV_1342,A0A2K5AS80,Uncharacterized protein
+NCAV_1776,NCAV_1776,A0A2K5ATJ0,Uncharacterized protein
+NCAV_0865,NCAV_0865,A0A2K5AQW2,Uncharacterized protein
+NCAV_1376,acs,A0A2K5ASC7,Acetyl-coenzyme A synthetase (EC 6.2.1.1)
+NCAV_1267,NCAV_1267,A0A2K5AS55,Uncharacterized protein
+NCAV_0467,NCAV_0467,A0A2K5APT7,"Putative 1,4-dihydroxy-2-naphthoate octaprenyltransferase"
+NCAV_0463,NCAV_0463,A0A2K5APX1,Uncharacterized protein
+NCAV_1368,flaF,A0A2K5ASF8,Putative flagellar protein FlaF
+NCAV_1657,NCAV_1657,A0A2K5AT46,Uncharacterized protein
+NCAV_0539,NCAV_0539,A0A2K5AQ15,Uncharacterized protein
+NCAV_1629,NCAV_1629,A0A2K5AT24,C2H2-type domain-containing protein
+NCAV_1382,NCAV_1382,A0A2K5ASB6,Integrase
+NCAV_0483,NCAV_0483,A0A2K5APV7,Uncharacterized protein
+NCAV_0946,NCAV_0946,A0A2K5AR45,Putative CoA-binding domain protein
+NCAV_1565,NCAV_1565,A0A2K5ASV1,Glutaredoxin
+NCAV_1303,NCAV_1303,A0A2K5AS43,Uncharacterized protein
+NCAV_1634,NCAV_1634,A0A2K5AT41,Uncharacterized protein
+NCAV_1768,NCAV_1768,A0A2K5ATI3,Uncharacterized protein
+NCAV_1138,NCAV_1138,A0A2K5ARN4,Uncharacterized protein
+NCAV_0571,NCAV_0571,A0A2K5AQ67,Uncharacterized protein
+NCAV_1606,accB,A0A2K5AT25,"Acetyl-CoA/ propionyl-CoA carboxylase, carboxyltransferase subunit (EC 6.4.1.3)"
+NCAV_0423,NCAV_0423,A0A2K5APT1,Uncharacterized protein
+NCAV_0876,NCAV_0876,A0A2K5AQX5,Putative NADH dehydrogenase/NAD(P)H nitroreductase AF_0226 (EC 1.-.-.-)
+NCAV_0687,NCAV_0687,A0A2K5AQD4,Uncharacterized protein
+NCAV_1297,NCAV_1297,A0A2K5AS81,Uncharacterized protein
+NCAV_0274,nuoL,A0A2K5APA1,NADH-quinone oxidoreductase subunit L (EC 1.6.5.11)
+NCAV_0892,NCAV_0892,A0A2K5AR47,Uncharacterized protein
+NCAV_0830,rpl23p,A0A2K5AQR8,50S ribosomal protein L23p
+NCAV_0844,purS,A0A2K5AQU2,Phosphoribosylformylglycinamidine synthase subunit PurS (EC 6.3.5.3)
+NCAV_1437,NCAV_1437,A0A2K5ASI2,Uncharacterized protein
+NCAV_0507,pth,A0A2K5APX8,Aminoacyl-tRNA hydrolase (EC 3.1.1.29)
+NCAV_0026,pepQ,A0A2K5ANK2,Putative creatinase (EC 3.4.13.9) (EC 3.5.3.3)
+NCAV_1064,NCAV_1064,A0A2K5ARF8,Uncharacterized protein
+NCAV_1182,NCAV_1182,A0A2K5ARW3,Uncharacterized protein
+NCAV_0619,NCAV_0619,A0A2K5AQ94,Methylenetetrahydrofolate reductase (NAD(P)H) (EC 1.5.1.20)
+NCAV_0486,NCAV_0486,A0A2K5APZ8,Uncharacterized protein
+NCAV_1597,rocA,A0A2K5AT02,1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
+NCAV_0187,NCAV_0187,A0A2K5AP30,Putative Surface associated S-layer protein
+NCAV_1639,eIf-2a,A0A2K5AT31,"Translation initiation factor 2, subunit alpha"
+NCAV_0971,folD,A0A2K5AR72,Bifunctional protein FolD [Includes: Methylenetetrahydrofolate dehydrogenase (EC 1.5.1.5); Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)]
+NCAV_0009,NCAV_0009,A0A2K5ANN2,Serine/threonine protein phosphatase pp2a catalytic subunit
+NCAV_0911,NCAV_0911,A0A2K5AR07,Uncharacterized protein
+NCAV_1714,rpl2p,A0A2K5ATB7,50S ribosomal protein L2
+NCAV_0262,glmS,A0A2K5APB5,Glutamine--fructose-6-phosphate transaminase (isomerizing) (EC 2.6.1.16)
+NCAV_0199,NCAV_0199,A0A2K5AP62,Uncharacterized protein
+NCAV_0441,NCAV_0441,A0A2K5APS4,Uncharacterized protein
+NCAV_1161,NCAV_1161,A0A2K5ARQ5,GTP-binding protein
+NCAV_0067,atpD,A0A2K5ANP9,V-type ATP synthase subunit D (V-ATPase subunit D)
+NCAV_1648,NCAV_1648,A0A2K5AT52,SnRNP Sm-like protein (Modular protein)
+NCAV_0332,NCAV_0332,A0A2K5APG0,Uncharacterized protein
+NCAV_0960,speE,A0A2K5AR89,Polyamine aminopropyltransferase (Putrescine aminopropyltransferase) (PAPT) (Spermidine synthase) (SPDS) (SPDSY) (EC 2.5.1.16)
+NCAV_1464,NCAV_1464,A0A2K5ASK4,Uncharacterized protein
+NCAV_1312,NCAV_1312,A0A2K5AS46,Putative isocitrate lyase /carboxyphosphonoenolpyruvate phosphonomutase (EC 4.1.3.1)
+NCAV_1319,NCAV_1319,A0A2K5AS74,Uncharacterized protein
+NCAV_0022,NCAV_0022,A0A2K5ANL8,4-phosphopantoate--beta-alanine ligase (EC 6.3.2.36) (Phosphopantothenate synthetase) (PPS)
+NCAV_1723,NCAV_1723,A0A2K5ATA9,DNA helicase (EC 3.6.4.12)
+NCAV_1216,NCAV_1216,A0A2K5ARW2,Putative tRNA (Guanine(6)-N2)-methyltransferase (EC 2.1.1.256)
+NCAV_0979,NCAV_0979,A0A2K5AR81,Uncharacterized protein
+NCAV_0546,NCAV_0546,A0A2K5AQ59,Crp/Fnr family transcriptional regulator
+NCAV_0214,NCAV_0214,A0A2K5AP45,Uncharacterized protein
+NCAV_0006,pyrH,A0A2K5ANI3,Uridylate kinase (UK) (EC 2.7.4.22) (Uridine monophosphate kinase) (UMP kinase) (UMPK)
+NCAV_0540,rps11p,A0A2K5AQ07,30S ribosomal protein S11
+NCAV_0412,NCAV_0412,A0A2K5APP7,Uncharacterized protein
+NCAV_0826,rpl29p,A0A2K5AQX0,50S ribosomal protein L29
+NCAV_0454,NCAV_0454,A0A2K5APQ8,Uncharacterized protein
+NCAV_0437,ilvE,A0A2K5APQ7,Branched-chain-amino-acid aminotransferase (BCAT) (EC 2.6.1.42)
+NCAV_0202,NCAV_0202,A0A2K5AP34,Uncharacterized protein
+NCAV_0114,NCAV_0114,A0A2K5ANV1,Uncharacterized protein
+NCAV_1327,NCAV_1327,A0A2K5AS77,SirA family protein
+NCAV_1292,rpl15e,A0A2K5AS69,50S ribosomal protein L15e
+NCAV_1480,purD,A0A2K5ASL8,Phosphoribosylamine--glycine ligase (EC 6.3.4.13) (GARS) (Glycinamide ribonucleotide synthetase) (Phosphoribosylglycinamide synthetase)
+NCAV_0265,NCAV_0265,A0A2K5APA0,NADH-quinone oxidoreductase subunit B
+NCAV_1337,NCAV_1337,A0A2K5AS85,Membrane platform protein
+NCAV_0835,NCAV_0835,A0A2K5AQU0,Serine hydroxymethyltransferase
+NCAV_1001,ureA,A0A2K5ARA5,Urease gamma subunit (EC 3.5.1.5)
+NCAV_0843,purQ,A0A2K5AQU7,Phosphoribosylformylglycinamidine synthase subunit PurQ (FGAM synthase) (EC 6.3.5.3) (Formylglycinamide ribonucleotide amidotransferase subunit I) (FGAR amidotransferase I) (FGAR-AT I) (Glutaminase PurQ) (EC 3.5.1.2) (Phosphoribosylformylglycinamidine synthase subunit I)
+NCAV_1663,folE,A0A2K5AT57,GTP cyclohydrolase 1 (EC 3.5.4.16) (GTP cyclohydrolase I) (GTP-CH-I)
+NCAV_1785,NCAV_1785,A0A2K5ATG5,Uncharacterized protein
+NCAV_0899,NCAV_0899,A0A2K5AR02,tRNA intron endonuclease
+NCAV_1236,ilvI,A0A2K5ARY2,Acetolactate synthase (EC 2.2.1.6)
+NCAV_1541,rpl10p,A0A2K5AST1,50S ribosomal protein L10 (Acidic ribosomal protein P0 homolog)
+NCAV_0579,NCAV_0579,A0A2K5AQ55,Uncharacterized protein
+NCAV_0287,mntC,A0A2K5APA9,"ABC uptake transporter, permease protein"
+NCAV_0230,NCAV_0230,A0A2K5AP53,Putative Phosphoesterase PA-phosphatase related
+NCAV_1749,cca,A0A2K5ATD5,CCA-adding enzyme (EC 2.7.7.72) (CCA tRNA nucleotidyltransferase) (tRNA CCA-pyrophosphorylase) (tRNA adenylyl-/cytidylyl- transferase) (tRNA nucleotidyltransferase) (tRNA-NT)
+NCAV_0446,NCAV_0446,A0A2K5APS0,Uncharacterized protein
+NCAV_1378,trxA,A0A2K5ASG5,Thioredoxin
+NCAV_0058,NCAV_0058,A0A2K5ANN7,Putative cysteine desulfurase
+NCAV_1421,sdcS,A0A2K5ASH4,Sodium-dependent dicarboxylate transporter SdcS
+NCAV_1324,NCAV_1324,A0A2K5AS61,ASCH domain-containing protein
+NCAV_0384,NCAV_0384,A0A2K5APJ5,Modification methylase (EC 2.1.1.113)
+NCAV_0070,NCAV_0070,A0A2K5ANQ4,V-type ATP synthase subunit I
+NCAV_0914,NCAV_0914,A0A2K5AR11,Integrase family protein

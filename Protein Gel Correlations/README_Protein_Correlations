@@ -1,0 +1,15 @@
+Protein Gel Correlations
+
+Data and scripts that identified genes listed in Table 1 of the manuscript can be found here.
+
+Protein groups from MaxQuant analysis for Nitrososphaera viennensis can be found in the file Nvie_22_Protein_Groups.
+Protein groups form MaxQuant analyiss for Nitrosocaldus cavascurensis can be found in the file Ncav_27_Protein_Groups.
+
+R script for N. viennensis correlations: Nvie_Gel_Protein_Correlations.
+R script for N. cavascurensis correlations: Ncav_Gel_Protein_Correlations.
+
+Gene codes for N. viennensis can be found in the file Nvie_Gene_Codes.xlsx.
+Gene Codes for N. cavascurensis can be found in the file Ncav_Gene_Codes.xlsx.
+
+Raw proteomic data for N. viennensis is deposited in the PRIDE database under PXD035349.
+Raw proteomic data for N. cavascurensis is deposited in the PRIDE database under PXD034632.
