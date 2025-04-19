@@ -1,0 +1,9 @@
+Reanalysis of Transcriptome Data
+
+The scripts included here use a new mapping program for the RNA seq data analyzed in Reyes et al 2020.
+
+The hisat2 analysis commands (replacing the previous bowtie2 commands) can be found in cu_hisat2.sh file.
+The following featureCounts command can be found in cu_featurecounts2.
+
+Subsequent data analysis steps remained the same and can be found at:
+https://github.com/hodgskiss/Nviennensis_copper_limitation
